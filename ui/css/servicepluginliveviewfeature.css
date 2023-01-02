@@ -1,0 +1,288 @@
+/* screen - servicepluginliveviewfeature */
+
+.servicepluginliveviewfeature {
+  background-color: var(--white);
+  height: 2023px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.servicepluginliveviewfeature .group-10 {
+  background-color: transparent;
+  height: 671px;
+  left: 1140px;
+  position: absolute;
+  top: 389px;
+  width: 680px;
+}
+
+.servicepluginliveviewfeature .group-16 {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.servicepluginliveviewfeature .group-3 {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.servicepluginliveviewfeature .table-guide-text2line_mint-group-3 {
+  background-color: transparent;
+  height: 79px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.servicepluginliveviewfeature .table-guide-text2line_mint-copy-2 {
+  background-color: transparent;
+  height: 37px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 210px;
+}
+
+.servicepluginliveviewfeature .group-5 {
+  background-color: transparent;
+  height: 119px;
+  left: 0px;
+  position: absolute;
+  top: 145px;
+  width: 680px;
+}
+
+.servicepluginliveviewfeature .table-guide-text2line_mint-group-5 {
+  background-color: transparent;
+  height: 119px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.servicepluginliveviewfeature .table-guide-text2line_mint-copy-3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 210px;
+}
+
+.servicepluginliveviewfeature .group-6 {
+  background-color: transparent;
+  height: 219px;
+  left: 0px;
+  position: absolute;
+  top: 274px;
+  width: 680px;
+}
+
+.servicepluginliveviewfeature .table-guide-text2line_mint-group-6 {
+  background-color: transparent;
+  height: 219px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.servicepluginliveviewfeature .table-guide-text2line_mint-copy-4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 210px;
+}
+
+.servicepluginliveviewfeature .group-8 {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  top: 612px;
+  width: 680px;
+}
+
+.servicepluginliveviewfeature .group-7 {
+  background-color: transparent;
+  height: 99px;
+  left: 0px;
+  position: absolute;
+  top: 503px;
+  width: 680px;
+}
+
+.servicepluginliveviewfeature .table-guide-text2line_mint-copy-7 {
+  background-color: transparent;
+  height: 99px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.servicepluginliveviewfeature .table-guide-text2line_mint-copy-6 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicepluginliveviewfeature .table-guide-text2line_mint-copy-5 {
+  background-color: transparent;
+  height: 37px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 210px;
+}
+
+.servicepluginliveviewfeature .group-9 {
+  background-color: transparent;
+  height: 664px;
+  left: 420px;
+  position: absolute;
+  top: 389px;
+  width: 670px;
+}
+
+.servicepluginliveviewfeature .group-11 {
+  background-color: transparent;
+  height: 613px;
+  left: 420px;
+  position: absolute;
+  top: 1210px;
+  width: 1400px;
+}
+
+.servicepluginliveviewfeature .web-sub_-title {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 331px;
+  width: 1600px;
+}
+
+.servicepluginliveviewfeature .web-title-area {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.servicepluginliveviewfeature .web-tab-service-plug-in_cctv {
+  background-color: transparent;
+  height: 94px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.servicepluginliveviewfeature .x3rd-depth {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.servicepluginliveviewfeature .live-view-_-interact {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 168px;
+}
+
+.servicepluginliveviewfeature .incoming-call-_-scre {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 139px;
+}
+
+.servicepluginliveviewfeature .incoming-call-_-feat {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 146px;
+}
+
+.servicepluginliveviewfeature .incoming-call-_-inte-1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 197px;
+}
+
+.servicepluginliveviewfeature .incoming-call-_-inte-2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 262px;
+}
+
+.servicepluginliveviewfeature .incoming-call-_-inte-3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 315px;
+}
+
+.servicepluginliveviewfeature .group-1 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginliveviewfeature .group-2 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginliveviewfeature .webgnb {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}

@@ -1,0 +1,600 @@
+/* screen - c2ccommoncoreappservicecardtype */
+
+.c2ccommoncoreappservicecardtype {
+  background-color: var(--white);
+  height: 1376px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.c2ccommoncoreappservicecardtype .flex-col-h8j9CZ {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 320px;
+  min-height: 1112px;
+  position: absolute;
+  top: 64px;
+  width: 1600px;
+}
+
+.c2ccommoncoreappservicecardtype .flex-row-5qu9Lc {
+  align-items: flex-end;
+  background-color: transparent;
+  background-image: url(../img/c2ccommonadvancedfeatures-webtitle-area-C4CE921E-E01A-44A3-9A85-9ED2E127BA6E@2x.png);
+  background-size: 100% 100%;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 170px;
+  justify-content: flex-start;
+  min-width: 1600px;
+  position: relative;
+  width: auto;
+}
+
+.c2ccommoncoreappservicecardtype .web-tabc2-c_-common-qU2VeT {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 47px;
+  position: relative;
+  width: 1600px;
+}
+
+.c2ccommoncoreappservicecardtype .tab-eOKZSY {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.c2ccommoncoreappservicecardtype .advanced-features-MW6xxB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 118px;
+}
+
+.c2ccommoncoreappservicecardtype .core-app-service-car-MW6xxB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 168px;
+}
+
+.c2ccommoncoreappservicecardtype .card-bg-MW6xxB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 50px;
+}
+
+.c2ccommoncoreappservicecardtype .dialog-copy-MW6xxB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 40px;
+}
+
+.c2ccommoncoreappservicecardtype .web-sub_-title-5qu9Lc {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 58px;
+  margin-top: 50px;
+  position: relative;
+  width: 1600px;
+}
+
+.c2ccommoncoreappservicecardtype .group-container-5qu9Lc {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 834px;
+  justify-content: flex-start;
+  margin-right: 20.0px;
+  margin-top: 0px;
+  min-width: 1420px;
+  position: relative;
+  width: auto;
+}
+
+.c2ccommoncoreappservicecardtype .group-10-HrjFXp {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 834px;
+  position: relative;
+  width: 690px;
+}
+
+.c2ccommoncoreappservicecardtype .group-9-HrjFXp {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 50px;
+  min-height: 140px;
+  position: relative;
+  width: 680px;
+}
+
+.c2ccommoncoreappservicecardtype .descriptiontabletop-WSxcQ7 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 56px;
+  position: relative;
+  width: 680px;
+}
+
+.c2ccommoncoreappservicecardtype .group-2-WSxcQ7 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 37px;
+  justify-content: flex-start;
+  margin-top: 0px;
+  min-width: 680px;
+  position: relative;
+  width: auto;
+}
+
+.c2ccommoncoreappservicecardtype .table-guide-text1line-m9CQeI {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  position: relative;
+  width: 50px;
+}
+
+.c2ccommoncoreappservicecardtype .table-guide-text2line_m-m9CQeI {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 37px;
+  margin-left: 10px;
+  position: relative;
+  width: 340px;
+}
+
+.c2ccommoncoreappservicecardtype .table-guide-text1line-mjsjfd {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  margin-left: 10px;
+  position: relative;
+  width: 270px;
+}
+
+.c2ccommoncoreappservicecardtype .group-2-copy-WSxcQ7 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 37px;
+  justify-content: flex-start;
+  margin-top: 10px;
+  min-width: 680px;
+  position: relative;
+  width: auto;
+}
+
+.c2ccommoncoreappservicecardtype .table-guide-text1line-copy-VT4lkF {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  position: relative;
+  width: 50px;
+}
+
+.c2ccommoncoreappservicecardtype .table-guide-text2line_m-VT4lkF {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 37px;
+  margin-left: 10px;
+  position: relative;
+  width: 340px;
+}
+
+.c2ccommoncoreappservicecardtype .table-guide-text1line-copy-2-VT4lkF {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  margin-left: 10px;
+  position: relative;
+  width: 270px;
+}
+
+.c2ccommoncoreappservicecardtype .lnb-service-feature-h8j9CZ {
+  background-color: var(--concrete);
+  height: 891px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.c2ccommoncoreappservicecardtype .background-CqbaQd {
+  background-color: var(--concrete);
+  height: 891px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.c2ccommoncoreappservicecardtype .line-CqbaQd {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.c2ccommoncoreappservicecardtype .home-net-gui-guidelin-CqbaQd {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.stackedgroup3 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.stackedgroup3 .web-index-title-reference-copy-2-xPfwq5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup3 .group-xPfwq5 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup3 .empty-gx4Nuh {
+  background-color: transparent;
+  bottom: 0px;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  width: 100%;
+}
+
+.stackedgroup3 .line-copy-gx4Nuh {
+  background-color: transparent;
+  height: 2.44%;
+  left: 7.19%;
+  opacity: 0.2;
+  position: absolute;
+  top: 48.78%;
+  width: 85.62%;
+}
+
+.stackedgroup3 .empty-JQbtTE {
+  background-color: transparent;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup3 .web-index-title-reference-copy-xPfwq5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup3 .group-copy-xPfwq5 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup3 .empty-ij8e4x {
+  background-color: transparent;
+  bottom: 0px;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  width: 100%;
+}
+
+.stackedgroup3 .line-copy-ij8e4x {
+  background-color: transparent;
+  height: 2.44%;
+  left: 7.19%;
+  opacity: 0.2;
+  position: absolute;
+  top: 48.78%;
+  width: 85.62%;
+}
+
+.stackedgroup3 .empty-v3nqnP {
+  background-color: transparent;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup3 .web-index-title-reference-xPfwq5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup3 .web-index-contents1dpeth_close-xPfwq5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup3 .web-index-contents1dpeth_close-KJ1nru {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup3 .web-index-contents1dpeth_close-ayEAcb {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup3 .web-index-contents1dpeth_close-copy-2-xPfwq5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup3 .web-index-contents1dpeth_close-0eYnJI {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup3 .web-index-contents1d-xPfwq5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup3 .web-index-contents1dpeth_open_selected-xPfwq5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup3 .web-index-contents1d-KJ1nru {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup3 .web-index-contents1d-ayEAcb {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup3 .group-copy-2-xPfwq5 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup3 .empty-7pvXkM {
+  background-color: transparent;
+  bottom: 0px;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  width: 100%;
+}
+
+.stackedgroup3 .line-copy-7pvXkM {
+  background-color: transparent;
+  height: 2.44%;
+  left: 7.19%;
+  opacity: 0.2;
+  position: absolute;
+  top: 48.78%;
+  width: 85.62%;
+}
+
+.stackedgroup3 .empty-dTIxeQ {
+  background-color: transparent;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup3 .web-index-title-reference-copy-3-xPfwq5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.c2ccommoncoreappservicecardtype .webgnb-h8j9CZ {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2ccommoncoreappservicecardtype .background-LBK0sA {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2ccommoncoreappservicecardtype .index-LBK0sA {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 64px;
+  justify-content: flex-start;
+  left: 420px;
+  min-width: 123px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.c2ccommoncoreappservicecardtype .web-index-select-2vS3Vg {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 64px;
+  position: relative;
+  width: 32px;
+}
+
+.c2ccommoncoreappservicecardtype .web-index-unselect-2vS3Vg {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 64px;
+  margin-left: 60px;
+  position: relative;
+  width: 31px;
+}
+
+.c2ccommoncoreappservicecardtype .web-index-unelect_main-LBK0sA {
+  background-color: transparent;
+  background-image: url(../img/c2cconnectedneedapp-logo-A96B53CA-63FE-489E-A008-E6BA7B3CC4BF@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}

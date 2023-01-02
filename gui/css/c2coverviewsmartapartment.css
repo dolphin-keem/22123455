@@ -1,0 +1,867 @@
+/* screen - c2coverviewsmartapartment */
+
+.c2coverviewsmartapartment {
+  align-items: flex-end;
+  background-color: var(--white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 3367px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.c2coverviewsmartapartment .overlap-group-YlMfSO {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 1088px;
+  position: relative;
+  width: 1920px;
+  z-index: 2;
+}
+
+.c2coverviewsmartapartment .flex-col-N85Jdr {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 320px;
+  min-height: 804px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.c2coverviewsmartapartment .web-sub_-title-5xzv0Z {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 58px;
+  position: relative;
+  width: 1600px;
+}
+
+.c2coverviewsmartapartment .group-container-5xzv0Z {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 746px;
+  justify-content: flex-start;
+  margin-right: 21.0px;
+  margin-top: 0px;
+  min-width: 1421px;
+  position: relative;
+  width: auto;
+}
+
+.c2coverviewsmartapartment .group-21-rFGJ8d {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 746px;
+  position: relative;
+  width: 691px;
+}
+
+.c2coverviewsmartapartment .group-16-rFGJ8d {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 50px;
+  min-height: 256px;
+  position: relative;
+  width: 680px;
+}
+
+.c2coverviewsmartapartment .table-guide-title-efOCgo {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 56px;
+  position: relative;
+  width: 680px;
+}
+
+.c2coverviewsmartapartment .group-4-efOCgo {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  margin-top: 0px;
+  position: relative;
+  width: 680px;
+}
+
+.c2coverviewsmartapartment .group-15-efOCgo {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  margin-top: 10px;
+  position: relative;
+  width: 680px;
+}
+
+.c2coverviewsmartapartment .group-5-copy-efOCgo {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 59px;
+  margin-top: 10px;
+  position: relative;
+  width: 680px;
+}
+
+.c2coverviewsmartapartment .group-5-copy-2-efOCgo {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 37px;
+  justify-content: flex-start;
+  margin-top: 10px;
+  min-width: 680px;
+  position: relative;
+  width: auto;
+}
+
+.c2coverviewsmartapartment .table-guide-text1line-copy-8-cYBKUk {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  position: relative;
+  width: 50px;
+}
+
+.c2coverviewsmartapartment .table-guide-text1line-copy-9-cYBKUk {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 37px;
+  margin-left: 10px;
+  position: relative;
+  width: 340px;
+}
+
+.c2coverviewsmartapartment .table-guide-text1line-copy-10-cYBKUk {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  margin-left: 10px;
+  position: relative;
+  width: 270px;
+}
+
+.c2coverviewsmartapartment .lnb-service-feature-N85Jdr {
+  background-color: var(--concrete);
+  height: 891px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.c2coverviewsmartapartment .background-Cm2H6Q {
+  background-color: var(--concrete);
+  height: 891px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.c2coverviewsmartapartment .line-Cm2H6Q {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.c2coverviewsmartapartment .home-net-gui-guidelin-Cm2H6Q {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.stackedgroup6 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.stackedgroup6 .web-index-title-reference-copy-2-zm0cTg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup6 .group-zm0cTg {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup6 .empty-vqP8b5 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  width: 100%;
+}
+
+.stackedgroup6 .line-copy-vqP8b5 {
+  background-color: transparent;
+  height: 2.44%;
+  left: 7.19%;
+  opacity: 0.2;
+  position: absolute;
+  top: 48.78%;
+  width: 85.62%;
+}
+
+.stackedgroup6 .empty-xo3Tn7 {
+  background-color: transparent;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup6 .web-index-title-reference-copy-zm0cTg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup6 .group-copy-zm0cTg {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup6 .empty-gUs2DO {
+  background-color: transparent;
+  bottom: 0px;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  width: 100%;
+}
+
+.stackedgroup6 .line-copy-gUs2DO {
+  background-color: transparent;
+  height: 2.44%;
+  left: 7.19%;
+  opacity: 0.2;
+  position: absolute;
+  top: 48.78%;
+  width: 85.62%;
+}
+
+.stackedgroup6 .empty-lyCcoW {
+  background-color: transparent;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup6 .web-index-title-reference-zm0cTg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup6 .web-index-contents1dpeth_close-zm0cTg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup6 .web-index-contents1dpeth_close-42fmgc {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup6 .web-index-contents1dpeth_close-1WjFZz {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup6 .web-index-contents1dpeth_close-copy-2-zm0cTg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup6 .web-index-contents1dpeth_close-3GDjbo {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup6 .web-index-contents1d-zm0cTg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup6 .web-index-contents1dpeth_open_selected-zm0cTg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup6 .web-index-contents1d-42fmgc {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup6 .web-index-contents1d-1WjFZz {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup6 .group-copy-2-zm0cTg {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup6 .empty-FWSGoV {
+  background-color: transparent;
+  bottom: 0px;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  width: 100%;
+}
+
+.stackedgroup6 .line-copy-FWSGoV {
+  background-color: transparent;
+  height: 2.44%;
+  left: 7.19%;
+  opacity: 0.2;
+  position: absolute;
+  top: 48.78%;
+  width: 85.62%;
+}
+
+.stackedgroup6 .empty-4wo2LP {
+  background-color: transparent;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup6 .web-index-title-reference-copy-3-zm0cTg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.c2coverviewsmartapartment .webgnb-N85Jdr {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2coverviewsmartapartment .background-EwHfko {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2coverviewsmartapartment .index-EwHfko {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 64px;
+  justify-content: flex-start;
+  left: 420px;
+  min-width: 123px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.c2coverviewsmartapartment .web-index-select-liNxxw {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 64px;
+  position: relative;
+  width: 32px;
+}
+
+.c2coverviewsmartapartment .web-index-unselect-liNxxw {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 64px;
+  margin-left: 60px;
+  position: relative;
+  width: 31px;
+}
+
+.c2coverviewsmartapartment .web-index-unelect_main-EwHfko {
+  background-color: transparent;
+  background-image: url(../img/c2cconnectedneedapp-logo-A96B53CA-63FE-489E-A008-E6BA7B3CC4BF@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.c2coverviewsmartapartment .web-title-area-YlMfSO {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+  z-index: 3;
+}
+
+.c2coverviewsmartapartment .web-tabc2-c_-overview-YlMfSO {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+  z-index: 4;
+}
+
+.c2coverviewsmartapartment .tab-xiAT3Q {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.c2coverviewsmartapartment .image-WyZn7x {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 198px;
+}
+
+.c2coverviewsmartapartment .smart-apartment-WyZn7x {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 109px;
+}
+
+.c2coverviewsmartapartment .list-copy-WyZn7x {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 23px;
+}
+
+.c2coverviewsmartapartment .smart-apartment_-card-copy-WyZn7x {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 144px;
+}
+
+.c2coverviewsmartapartment .smart-apartment_-list-copy-WyZn7x {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 139px;
+}
+
+.c2coverviewsmartapartment .smart-apartment-jPRHMR {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 187px;
+}
+
+.c2coverviewsmartapartment .image-jPRHMR {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 145px;
+}
+
+.c2coverviewsmartapartment .flex-row-YlMfSO {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 1929px;
+  justify-content: flex-start;
+  margin-right: 100px;
+  margin-top: 150px;
+  min-width: 1421px;
+  position: relative;
+  width: auto;
+  z-index: 1;
+}
+
+.c2coverviewsmartapartment .group-container-YecGZJ {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 1929px;
+  position: relative;
+  width: 691px;
+}
+
+.c2coverviewsmartapartment .group-25-xu3nKw {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 746px;
+  position: relative;
+  width: 691px;
+}
+
+.c2coverviewsmartapartment .group-28-xu3nKw {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 1083px;
+  margin-top: 100px;
+  position: relative;
+  width: 645px;
+}
+
+.c2coverviewsmartapartment .group-container-xlzGuq {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 50px;
+  min-height: 1033px;
+  position: relative;
+  width: 680px;
+}
+
+.c2coverviewsmartapartment .group-18-bN7a08 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 187px;
+  position: relative;
+  width: 680px;
+}
+
+.c2coverviewsmartapartment .table-guide-title-UvOI0e {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 56px;
+  position: relative;
+  width: 680px;
+}
+
+.c2coverviewsmartapartment .group-4-UvOI0e {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  margin-top: 0px;
+  position: relative;
+  width: 680px;
+}
+
+.c2coverviewsmartapartment .group-17-UvOI0e {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  margin-top: 10px;
+  position: relative;
+  width: 680px;
+}
+
+.c2coverviewsmartapartment .group-8-UvOI0e {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 37px;
+  justify-content: flex-start;
+  margin-top: 10px;
+  min-width: 680px;
+  position: relative;
+  width: auto;
+}
+
+.c2coverviewsmartapartment .table-guide-text1line-copy-8-oOEW8G {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  position: relative;
+  width: 50px;
+}
+
+.c2coverviewsmartapartment .table-guide-text1line-copy-9-oOEW8G {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 37px;
+  margin-left: 10px;
+  position: relative;
+  width: 340px;
+}
+
+.c2coverviewsmartapartment .table-guide-text1line-copy-10-oOEW8G {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  margin-left: 10px;
+  position: relative;
+  width: 270px;
+}
+
+.c2coverviewsmartapartment .group-13-bN7a08 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 659px;
+  min-height: 187px;
+  position: relative;
+  width: 680px;
+}
+
+.c2coverviewsmartapartment .table-guide-title-XSM6fi {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 56px;
+  position: relative;
+  width: 680px;
+}
+
+.c2coverviewsmartapartment .group-4-XSM6fi {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  margin-top: 0px;
+  position: relative;
+  width: 680px;
+}
+
+.c2coverviewsmartapartment .group-29-XSM6fi {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  margin-top: 10px;
+  position: relative;
+  width: 680px;
+}
+
+.c2coverviewsmartapartment .group-5-copy-2-XSM6fi {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 37px;
+  justify-content: flex-start;
+  margin-top: 10px;
+  min-width: 680px;
+  position: relative;
+  width: auto;
+}
+
+.c2coverviewsmartapartment .group-8-OLKQCv {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 37px;
+  justify-content: flex-start;
+  min-width: 680px;
+  position: relative;
+  width: auto;
+}
+
+.c2coverviewsmartapartment .table-guide-text1line-copy-8-FV5j49 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  position: relative;
+  width: 50px;
+}
+
+.c2coverviewsmartapartment .table-guide-text1line-copy-9-FV5j49 {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 37px;
+  margin-left: 10px;
+  position: relative;
+  width: 340px;
+}
+
+.c2coverviewsmartapartment .table-guide-text1line-copy-10-FV5j49 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  margin-left: 10px;
+  position: relative;
+  width: 270px;
+}

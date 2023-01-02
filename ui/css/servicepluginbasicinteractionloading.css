@@ -1,0 +1,88 @@
+/* screen - servicepluginbasicinteractionloading */
+
+.servicepluginbasicinteractionloading {
+  background-color: var(--white);
+  height: 3518px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.servicepluginbasicinteractionloading .group-2 {
+  background-color: transparent;
+  height: 808px;
+  left: 420px;
+  position: absolute;
+  top: 1320px;
+  width: 1400px;
+}
+
+.servicepluginbasicinteractionloading .group-7 {
+  background-color: transparent;
+  height: 886px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.servicepluginbasicinteractionloading .group-3 {
+  background-color: transparent;
+  height: 1040px;
+  left: 420px;
+  position: absolute;
+  top: 2278px;
+  width: 1400px;
+}
+
+.servicepluginbasicinteractionloading .web-title-area {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.servicepluginbasicinteractionloading .x3rd-depth {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.servicepluginbasicinteractionloading .interaction-history {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 114px;
+}
+
+.servicepluginbasicinteractionloading .group-1 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginbasicinteractionloading .group-4 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginbasicinteractionloading .webgnb {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}

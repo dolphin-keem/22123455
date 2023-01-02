@@ -1,0 +1,34 @@
+/* screen - tabletserviceplugintutorial */
+
+.tabletserviceplugintutorial {
+  background-color: var(--white);
+  height: 2328px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.tabletserviceplugintutorial .group-5 {
+  background-color: transparent;
+  height: 1844px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.tabletserviceplugintutorial .group-1 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletserviceplugintutorial .group-2 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}

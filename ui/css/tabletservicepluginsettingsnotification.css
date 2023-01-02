@@ -1,0 +1,70 @@
+/* screen - tabletservicepluginsettingsnotification */
+
+.tabletservicepluginsettingsnotification {
+  background-color: var(--white);
+  height: 3042px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.tabletservicepluginsettingsnotification .group-8 {
+  background-color: transparent;
+  height: 1026px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.tabletservicepluginsettingsnotification .group-7 {
+  background-color: transparent;
+  height: 1382px;
+  left: 420px;
+  position: absolute;
+  top: 1460px;
+  width: 1400px;
+}
+
+.tabletservicepluginsettingsnotification .help-guide {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 65px;
+}
+
+.tabletservicepluginsettingsnotification .edit {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 24px;
+}
+
+.tabletservicepluginsettingsnotification .notification {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 74px;
+}
+
+.tabletservicepluginsettingsnotification .group-1 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletservicepluginsettingsnotification .group-2 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}

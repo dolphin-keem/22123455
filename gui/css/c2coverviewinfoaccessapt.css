@@ -1,0 +1,505 @@
+/* screen - c2coverviewinfoaccessapt */
+
+.c2coverviewinfoaccessapt {
+  background-color: var(--white);
+  height: 1287px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.c2coverviewinfoaccessapt .flex-col-wdjbdc {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 320px;
+  min-height: 1023px;
+  position: absolute;
+  top: 64px;
+  width: 1600px;
+}
+
+.c2coverviewinfoaccessapt .flex-row-bfUxRD {
+  align-items: flex-end;
+  background-color: transparent;
+  background-image: url(../img/c2coverviewadd01-webtitle-area-0E4316C9-BFE9-4638-9E69-D9B59721B829@2x.png);
+  background-size: 100% 100%;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 170px;
+  justify-content: flex-start;
+  min-width: 1600px;
+  position: relative;
+  width: auto;
+}
+
+.c2coverviewinfoaccessapt .web-tabc2-c_-overview-SkGiKw {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 47px;
+  position: relative;
+  width: 1600px;
+}
+
+.c2coverviewinfoaccessapt .tab-xMzi9X {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.c2coverviewinfoaccessapt .image-ZPQxB0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 198px;
+}
+
+.c2coverviewinfoaccessapt .smart-apartment-ZPQxB0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 108px;
+}
+
+.c2coverviewinfoaccessapt .list-copy-ZPQxB0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 23px;
+}
+
+.c2coverviewinfoaccessapt .smart-apartment_-card-copy-ZPQxB0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 144px;
+}
+
+.c2coverviewinfoaccessapt .smart-apartment_-list-copy-ZPQxB0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 139px;
+}
+
+.c2coverviewinfoaccessapt .smart-apartment-ysoPX6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 187px;
+}
+
+.c2coverviewinfoaccessapt .image-ysoPX6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 143px;
+}
+
+.c2coverviewinfoaccessapt .web-sub_-title-bfUxRD {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 58px;
+  margin-top: 50px;
+  position: relative;
+  width: 1600px;
+}
+
+.c2coverviewinfoaccessapt .group-bfUxRD {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 745px;
+  margin-top: 0px;
+  position: relative;
+  width: 1400px;
+}
+
+.c2coverviewinfoaccessapt .lnb-service-feature-wdjbdc {
+  background-color: var(--concrete);
+  height: 891px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.c2coverviewinfoaccessapt .background-LAmG0I {
+  background-color: var(--concrete);
+  height: 891px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.c2coverviewinfoaccessapt .line-LAmG0I {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.c2coverviewinfoaccessapt .home-net-gui-guidelin-LAmG0I {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.stackedgroup11 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.stackedgroup11 .web-index-title-reference-copy-2-PPoNq0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup11 .group-PPoNq0 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup11 .empty-seND9W {
+  background-color: transparent;
+  bottom: 0px;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  width: 100%;
+}
+
+.stackedgroup11 .line-copy-seND9W {
+  background-color: transparent;
+  height: 2.44%;
+  left: 7.19%;
+  opacity: 0.2;
+  position: absolute;
+  top: 48.78%;
+  width: 85.62%;
+}
+
+.stackedgroup11 .empty-s9sCZQ {
+  background-color: transparent;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup11 .web-index-title-reference-copy-PPoNq0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup11 .group-copy-PPoNq0 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup11 .empty-vDZMAx {
+  background-color: transparent;
+  bottom: 0px;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  width: 100%;
+}
+
+.stackedgroup11 .line-copy-vDZMAx {
+  background-color: transparent;
+  height: 2.44%;
+  left: 7.19%;
+  opacity: 0.2;
+  position: absolute;
+  top: 48.78%;
+  width: 85.62%;
+}
+
+.stackedgroup11 .empty-gQ4nmR {
+  background-color: transparent;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup11 .web-index-title-reference-PPoNq0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup11 .web-index-contents1dpeth_close-PPoNq0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup11 .web-index-contents1dpeth_close-13Owb9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup11 .web-index-contents1dpeth_close-iYxDQJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup11 .web-index-contents1dpeth_close-copy-2-PPoNq0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup11 .web-index-contents1dpeth_close-XBOw0S {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup11 .web-index-contents1d-PPoNq0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup11 .web-index-contents1dpeth_open_selected-PPoNq0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup11 .web-index-contents1d-13Owb9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup11 .web-index-contents1d-iYxDQJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup11 .group-copy-2-PPoNq0 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup11 .empty-j0iB4y {
+  background-color: transparent;
+  bottom: 0px;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  width: 100%;
+}
+
+.stackedgroup11 .line-copy-j0iB4y {
+  background-color: transparent;
+  height: 2.44%;
+  left: 7.19%;
+  opacity: 0.2;
+  position: absolute;
+  top: 48.78%;
+  width: 85.62%;
+}
+
+.stackedgroup11 .empty-eKRy3J {
+  background-color: transparent;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup11 .web-index-title-reference-copy-3-PPoNq0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.c2coverviewinfoaccessapt .webgnb-wdjbdc {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2coverviewinfoaccessapt .background-73D5NG {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2coverviewinfoaccessapt .index-73D5NG {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 64px;
+  justify-content: flex-start;
+  left: 420px;
+  min-width: 123px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.c2coverviewinfoaccessapt .web-index-select-RP6xdd {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 64px;
+  position: relative;
+  width: 32px;
+}
+
+.c2coverviewinfoaccessapt .web-index-unselect-RP6xdd {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 64px;
+  margin-left: 60px;
+  position: relative;
+  width: 31px;
+}
+
+.c2coverviewinfoaccessapt .web-index-unelect_main-73D5NG {
+  background-color: transparent;
+  background-image: url(../img/c2cconnectedneedapp-logo-A96B53CA-63FE-489E-A008-E6BA7B3CC4BF@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}

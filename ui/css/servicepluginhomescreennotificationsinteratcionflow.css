@@ -1,0 +1,190 @@
+/* screen - servicepluginhomescreennotificationsinteratcionflow */
+
+.servicepluginhomescreennotificationsinteratcionflow {
+  background-color: var(--white);
+  height: 2228px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .group-2 {
+  background-color: transparent;
+  height: 767px;
+  left: 320px;
+  position: absolute;
+  top: 331px;
+  width: 1600px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .group-3 {
+  background-color: transparent;
+  height: 780px;
+  left: 420px;
+  position: absolute;
+  top: 1248px;
+  width: 1400px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .web-title-area {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .web-tab-service-plug-in_-home-screen {
+  background-color: transparent;
+  height: 94px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .x3rd-depth {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .service-feature {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 93px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .banner-app-link {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 110px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .feature {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 48px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .interaction-flow-copy-4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 98px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .notifications-_-feat {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 141px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .group-1 {
+  background-color: transparent;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 196px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .notifications-_-inte {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 196px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .group-4 {
+  background-color: transparent;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 619px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .help-_-interaction-f {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 478px;
+  position: absolute;
+  top: 0px;
+  width: 141px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .help-guide-_-using-b {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 274px;
+  position: absolute;
+  top: 0px;
+  width: 154px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .help-guide-copy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 157px;
+  position: absolute;
+  top: 0px;
+  width: 67px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .help-_-guide-text {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 107px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .group-5 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .group-6 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreennotificationsinteratcionflow .webgnb {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}

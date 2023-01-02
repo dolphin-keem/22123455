@@ -1,0 +1,61 @@
+/* screen - tabletserviceplugincctv */
+
+.tabletserviceplugincctv {
+  background-color: var(--white);
+  height: 4232px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.tabletserviceplugincctv .group-5 {
+  background-color: transparent;
+  height: 1054px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.tabletserviceplugincctv .group-4-copy {
+  background-color: transparent;
+  height: 962px;
+  left: 420px;
+  position: absolute;
+  top: 2279px;
+  width: 1400px;
+}
+
+.tabletserviceplugincctv .group-3 {
+  background-color: transparent;
+  height: 642px;
+  left: 420px;
+  position: absolute;
+  top: 1488px;
+  width: 1400px;
+}
+
+.tabletserviceplugincctv .group-3-copy {
+  background-color: transparent;
+  height: 641px;
+  left: 420px;
+  position: absolute;
+  top: 3391px;
+  width: 1400px;
+}
+
+.tabletserviceplugincctv .group-1 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletserviceplugincctv .group-2 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}

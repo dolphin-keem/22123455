@@ -1,0 +1,181 @@
+/* screen - servicepluginhomebanner */
+
+.servicepluginhomebanner {
+  background-color: var(--white);
+  height: 2221px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.servicepluginhomebanner .group-14 {
+  background-color: transparent;
+  height: 304px;
+  left: 1140px;
+  position: absolute;
+  top: 1278px;
+  width: 680px;
+}
+
+.servicepluginhomebanner .group-13 {
+  background-color: transparent;
+  height: 179px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.servicepluginhomebanner .group-12 {
+  background-color: transparent;
+  height: 179px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.servicepluginhomebanner .table-guide-text2line_b-copy-3 {
+  background-color: transparent;
+  height: 59px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.servicepluginhomebanner .table-guide-text1line-copy-4 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicepluginhomebanner .group-5 {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  top: 245px;
+  width: 680px;
+}
+
+.servicepluginhomebanner .table-guide-text2line_b-copy-4 {
+  background-color: transparent;
+  height: 37px;
+  left: 410px;
+  position: absolute;
+  top: 0px;
+  width: 270px;
+}
+
+.servicepluginhomebanner .table-guide-text1line-copy-5 {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.servicepluginhomebanner .table-guide-text2line_m-copy-2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 59px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 340px;
+}
+
+.servicepluginhomebanner .group-18 {
+  background-color: transparent;
+  height: 743px;
+  left: 380px;
+  position: absolute;
+  top: 1278px;
+  width: 730px;
+}
+
+.servicepluginhomebanner .group-11 {
+  background-color: transparent;
+  height: 790px;
+  left: 320px;
+  position: absolute;
+  top: 338px;
+  width: 1600px;
+}
+
+.servicepluginhomebanner .group-15 {
+  background-color: transparent;
+  height: 159px;
+  left: 1140px;
+  position: absolute;
+  top: 1682px;
+  width: 680px;
+}
+
+.servicepluginhomebanner .web-title-area {
+  background-color: transparent;
+  height: 224px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.servicepluginhomebanner .web-tab-service-plug-in_-home-screen {
+  background-color: transparent;
+  height: 100px;
+  left: 320px;
+  position: fixed;
+  top: 188px;
+  width: 1600px;
+}
+
+.servicepluginhomebanner .brand-type {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 69px;
+}
+
+.servicepluginhomebanner .app-link-copy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 54px;
+}
+
+.servicepluginhomebanner .notifications-_-feat {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 144px;
+}
+
+.servicepluginhomebanner .help-guide-_-expanda {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 179px;
+}
+
+.servicepluginhomebanner .rectangle-lnb-service-plug-in {
+  background-color: var(--concrete);
+  height: 1397px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}

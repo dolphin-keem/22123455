@@ -1,0 +1,820 @@
+/* screen - coreapplifetablifetab */
+
+.coreapplifetablifetab {
+  align-items: flex-end;
+  background-color: var(--white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 2658px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.coreapplifetablifetab .overlap-group-l3Ov9d {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 1352px;
+  position: relative;
+  width: 1920px;
+  z-index: 1;
+}
+
+.coreapplifetablifetab .flex-col-Qfmo5S {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 320px;
+  min-height: 1014px;
+  position: absolute;
+  top: 338px;
+  width: 1600px;
+}
+
+.coreapplifetablifetab .web-sub_-title-z9TIgr {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 58px;
+  position: relative;
+  width: 1600px;
+}
+
+.coreapplifetablifetab .group-container-z9TIgr {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 956px;
+  justify-content: flex-start;
+  margin-right: 20.0px;
+  margin-top: 0px;
+  min-width: 1420px;
+  position: relative;
+  width: auto;
+}
+
+.coreapplifetablifetab .group-3-auuy88 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 956px;
+  position: relative;
+  width: 690px;
+}
+
+.coreapplifetablifetab .group-5-auuy88 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 50px;
+  min-height: 140px;
+  position: relative;
+  width: 680px;
+}
+
+.coreapplifetablifetab .table-guide-title-1R7d9k {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 56px;
+  position: relative;
+  width: 680px;
+}
+
+.coreapplifetablifetab .group-4-1R7d9k {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 37px;
+  justify-content: flex-start;
+  margin-top: 0px;
+  min-width: 680px;
+  position: relative;
+  width: auto;
+}
+
+.coreapplifetablifetab .table-guide-text1line-xWSAge {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  position: relative;
+  width: 50px;
+}
+
+.coreapplifetablifetab .table-guide-text1line_mint-xWSAge {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 37px;
+  margin-left: 10px;
+  position: relative;
+  width: 340px;
+}
+
+.coreapplifetablifetab .table-guide-text1line-0tdyfi {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  margin-left: 10px;
+  position: relative;
+  width: 270px;
+}
+
+.coreapplifetablifetab .group-4-copy-1R7d9k {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 37px;
+  justify-content: flex-start;
+  margin-top: 10px;
+  min-width: 680px;
+  position: relative;
+  width: auto;
+}
+
+.coreapplifetablifetab .table-guide-text1line-jqvPyc {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  position: relative;
+  width: 50px;
+}
+
+.coreapplifetablifetab .table-guide-text1line_mint-jqvPyc {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  margin-left: 10px;
+  position: relative;
+  width: 340px;
+}
+
+.coreapplifetablifetab .table-guide-text1line-dtlqlw {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  margin-left: 10px;
+  position: relative;
+  width: 270px;
+}
+
+.coreapplifetablifetab .lnb-service-feature-Qfmo5S {
+  background-color: var(--concrete);
+  height: 891px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.coreapplifetablifetab .background-Ftz1xW {
+  background-color: var(--concrete);
+  height: 891px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.coreapplifetablifetab .line-Ftz1xW {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.coreapplifetablifetab .home-net-gui-guidelin-Ftz1xW {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.stackedgroup30 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.stackedgroup30 .web-index-title-reference-copy-2-tjPgkd {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup30 .group-tjPgkd {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup30 .empty-vuzS0v {
+  background-color: transparent;
+  bottom: 0px;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  width: 100%;
+}
+
+.stackedgroup30 .line-copy-vuzS0v {
+  background-color: transparent;
+  height: 2.44%;
+  left: 7.19%;
+  opacity: 0.2;
+  position: absolute;
+  top: 48.78%;
+  width: 85.62%;
+}
+
+.stackedgroup30 .empty-X5Lwlx {
+  background-color: transparent;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup30 .web-index-title-reference-copy-tjPgkd {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup30 .group-copy-tjPgkd {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup30 .empty-acqgSL {
+  background-color: transparent;
+  bottom: 0px;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  width: 100%;
+}
+
+.stackedgroup30 .line-copy-acqgSL {
+  background-color: transparent;
+  height: 2.44%;
+  left: 7.19%;
+  opacity: 0.2;
+  position: absolute;
+  top: 48.78%;
+  width: 85.62%;
+}
+
+.stackedgroup30 .empty-go96i6 {
+  background-color: transparent;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup30 .web-index-title-reference-tjPgkd {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup30 .web-index-contents1dpeth_close-tjPgkd {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup30 .web-index-contents1dpeth_close-VExVLf {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup30 .web-index-contents1dpeth_close-VUODNG {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup30 .web-index-contents1dpeth_close-copy-2-tjPgkd {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup30 .web-index-contents1dpeth_close-eqWxTc {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup30 .web-index-contents1d-tjPgkd {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup30 .web-index-contents1dpeth_open_selected-tjPgkd {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup30 .web-index-contents1d-VExVLf {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup30 .web-index-contents1d-VUODNG {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup30 .group-copy-2-tjPgkd {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup30 .empty-KqAskM {
+  background-color: transparent;
+  bottom: 0px;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  width: 100%;
+}
+
+.stackedgroup30 .line-copy-KqAskM {
+  background-color: transparent;
+  height: 2.44%;
+  left: 7.19%;
+  opacity: 0.2;
+  position: absolute;
+  top: 48.78%;
+  width: 85.62%;
+}
+
+.stackedgroup30 .empty-3mQYC2 {
+  background-color: transparent;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup30 .web-index-title-reference-copy-3-tjPgkd {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.coreapplifetablifetab .webgnb-Qfmo5S {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.coreapplifetablifetab .background-GPpkoh {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.coreapplifetablifetab .index-GPpkoh {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 64px;
+  justify-content: flex-start;
+  left: 420px;
+  min-width: 123px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.coreapplifetablifetab .web-index-select-4MqvT9 {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 64px;
+  position: relative;
+  width: 32px;
+}
+
+.coreapplifetablifetab .web-index-unselect-4MqvT9 {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 64px;
+  margin-left: 60px;
+  position: relative;
+  width: 31px;
+}
+
+.coreapplifetablifetab .web-index-unelect_main-GPpkoh {
+  background-color: transparent;
+  background-image: url(../img/c2cconnectedneedapp-logo-A96B53CA-63FE-489E-A008-E6BA7B3CC4BF@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.coreapplifetablifetab .web-title-area-l3Ov9d {
+  background-color: transparent;
+  height: 224px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+  z-index: 3;
+}
+
+.coreapplifetablifetab .web-tabc2-c_re_popup-l3Ov9d {
+  background-color: var(--white);
+  height: 100px;
+  left: 320px;
+  position: fixed;
+  top: 188px;
+  width: 1600px;
+  z-index: 4;
+}
+
+.coreapplifetablifetab .background-8Urixs {
+  background-color: var(--white);
+  height: 100px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.coreapplifetablifetab .x3rd-depth-8Urixs {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.coreapplifetablifetab .tab-Otxqbl {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.coreapplifetablifetab .layout-TMRFmQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 42px;
+}
+
+.coreapplifetablifetab .life-tab-TMRFmQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 47px;
+}
+
+.coreapplifetablifetab .service-card-health-TMRFmQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 112px;
+}
+
+.coreapplifetablifetab .basic-_-title-TMRFmQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 75px;
+}
+
+.coreapplifetablifetab .basic-_-page-indicat-TMRFmQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 136px;
+}
+
+.coreapplifetablifetab .basic-_-bg-copy-TMRFmQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 65px;
+}
+
+.coreapplifetablifetab .basic-_-primary-colo-TMRFmQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 132px;
+}
+
+.coreapplifetablifetab .x3rd-depth-copy-8Urixs {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 53px;
+  width: 1600px;
+}
+
+.coreapplifetablifetab .tab-58SxS0 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.coreapplifetablifetab .basic-type-CqyiXn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 63px;
+}
+
+.coreapplifetablifetab .quick-link-type-copy-CqyiXn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 92px;
+}
+
+.coreapplifetablifetab .quick-link-type-_-se-CqyiXn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 265px;
+}
+
+.coreapplifetablifetab .quick-link-type-_-ic-CqyiXn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 135px;
+}
+
+.coreapplifetablifetab .banner-type-CqyiXn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 75px;
+}
+
+.coreapplifetablifetab .broken-token-CqyiXn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 83px;
+}
+
+.coreapplifetablifetab .group-container-l3Ov9d {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 956px;
+  justify-content: flex-start;
+  margin-right: 100px;
+  margin-top: 150px;
+  min-width: 1420px;
+  position: relative;
+  width: auto;
+  z-index: 2;
+}
+
+.coreapplifetablifetab .group-2-SGWnK5 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 956px;
+  position: relative;
+  width: 690px;
+}
+
+.coreapplifetablifetab .group-5-copy-SGWnK5 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 50px;
+  min-height: 113px;
+  position: relative;
+  width: 680px;
+}
+
+.coreapplifetablifetab .table-guide-title-E6aNpN {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 56px;
+  position: relative;
+  width: 680px;
+}
+
+.coreapplifetablifetab .group-4-E6aNpN {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 57px;
+  justify-content: flex-start;
+  margin-top: 0px;
+  min-width: 680px;
+  position: relative;
+  width: auto;
+}
+
+.coreapplifetablifetab .table-guide-text1line-Fnh150 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  position: relative;
+  width: 50px;
+}
+
+.coreapplifetablifetab .table-guide-text1line_mint-Fnh150 {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 57px;
+  margin-left: 10px;
+  position: relative;
+  width: 340px;
+}
+
+.coreapplifetablifetab .table-guide-text1line-X4otqa {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  margin-left: 10px;
+  position: relative;
+  width: 270px;
+}

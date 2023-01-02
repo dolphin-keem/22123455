@@ -1,0 +1,399 @@
+/* screen - servicepluginhomescreenfeature */
+
+.servicepluginhomescreenfeature {
+  background-color: var(--white);
+  height: 1458px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.servicepluginhomescreenfeature .group-6 {
+  background-color: transparent;
+  height: 718px;
+  left: 420px;
+  position: absolute;
+  top: 389px;
+  width: 670px;
+}
+
+.servicepluginhomescreenfeature .group-12 {
+  background-color: transparent;
+  height: 869px;
+  left: 1140px;
+  position: absolute;
+  top: 389px;
+  width: 680px;
+}
+
+.servicepluginhomescreenfeature .group-5 {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.servicepluginhomescreenfeature .group-3 {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 680px;
+}
+
+.servicepluginhomescreenfeature .table-guide-text2line_mint-group-3 {
+  background-color: transparent;
+  height: 79px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.servicepluginhomescreenfeature .table-guide-text2line_mint-copy-2-group-3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 210px;
+}
+
+.servicepluginhomescreenfeature .group-4 {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 145px;
+  width: 680px;
+}
+
+.servicepluginhomescreenfeature .table-guide-text2line_mint-group-4 {
+  background-color: transparent;
+  height: 79px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.servicepluginhomescreenfeature .table-guide-text2line_mint-copy-2-group-4 {
+  background-color: transparent;
+  height: 37px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 210px;
+}
+
+.servicepluginhomescreenfeature .group-7 {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 234px;
+  width: 680px;
+}
+
+.servicepluginhomescreenfeature .table-guide-text2line_mint-group-7 {
+  background-color: transparent;
+  height: 79px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.servicepluginhomescreenfeature .table-guide-text2line_mint-copy-2-group-7 {
+  background-color: transparent;
+  height: 37px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 210px;
+}
+
+.servicepluginhomescreenfeature .group-8 {
+  background-color: transparent;
+  height: 199px;
+  left: 0px;
+  position: absolute;
+  top: 323px;
+  width: 680px;
+}
+
+.servicepluginhomescreenfeature .table-guide-text2line_mint-group-8 {
+  background-color: transparent;
+  height: 199px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.servicepluginhomescreenfeature .table-guide-text2line_mint-copy-2-group-8 {
+  background-color: transparent;
+  height: 37px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 210px;
+}
+
+.servicepluginhomescreenfeature .group-9 {
+  background-color: transparent;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 532px;
+  width: 680px;
+}
+
+.servicepluginhomescreenfeature .table-guide-text2line_mint-group-9 {
+  background-color: transparent;
+  height: 79px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.servicepluginhomescreenfeature .table-guide-text2line_mint-copy-2-group-9 {
+  background-color: transparent;
+  height: 37px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 210px;
+}
+
+.servicepluginhomescreenfeature .group-10 {
+  background-color: transparent;
+  height: 99px;
+  left: 0px;
+  position: absolute;
+  top: 621px;
+  width: 680px;
+}
+
+.servicepluginhomescreenfeature .table-guide-text2line_mint-group-10 {
+  background-color: transparent;
+  height: 99px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.servicepluginhomescreenfeature .table-guide-text2line_mint-copy-2-group-10 {
+  background-color: transparent;
+  height: 37px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 210px;
+}
+
+.servicepluginhomescreenfeature .group-11 {
+  background-color: transparent;
+  height: 139px;
+  left: 0px;
+  position: absolute;
+  top: 730px;
+  width: 680px;
+}
+
+.servicepluginhomescreenfeature .table-guide-text2line_mint-group-11 {
+  background-color: transparent;
+  height: 139px;
+  left: 60px;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+
+.servicepluginhomescreenfeature .table-guide-text2line_mint-copy-2-group-11 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 470px;
+  position: absolute;
+  top: 0px;
+  width: 210px;
+}
+
+.servicepluginhomescreenfeature .web-sub_-title {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 331px;
+  width: 1600px;
+}
+
+.servicepluginhomescreenfeature .web-title-area {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.servicepluginhomescreenfeature .web-tab-service-plug-in_-home-screen {
+  background-color: transparent;
+  height: 94px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.servicepluginhomescreenfeature .x3rd-depth {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.servicepluginhomescreenfeature .service-feature {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 93px;
+}
+
+.servicepluginhomescreenfeature .banner-app-link {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 110px;
+}
+
+.servicepluginhomescreenfeature .feature {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 48px;
+}
+
+.servicepluginhomescreenfeature .interaction-flow-copy-4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 98px;
+}
+
+.servicepluginhomescreenfeature .notifications-_-feat {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 141px;
+}
+
+.servicepluginhomescreenfeature .group-1 {
+  background-color: transparent;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 194px;
+}
+
+.servicepluginhomescreenfeature .notifications-_-inte {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 194px;
+}
+
+.servicepluginhomescreenfeature .group-2 {
+  background-color: transparent;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 619px;
+}
+
+.servicepluginhomescreenfeature .help-_-interaction-f {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 478px;
+  position: absolute;
+  top: 0px;
+  width: 141px;
+}
+
+.servicepluginhomescreenfeature .help-guide-_-using-b {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 274px;
+  position: absolute;
+  top: 0px;
+  width: 154px;
+}
+
+.servicepluginhomescreenfeature .help-guide-copy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 157px;
+  position: absolute;
+  top: 0px;
+  width: 67px;
+}
+
+.servicepluginhomescreenfeature .help-_-guide-text {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 107px;
+}
+
+.servicepluginhomescreenfeature .group-13 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreenfeature .group-14 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginhomescreenfeature .webgnb {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}

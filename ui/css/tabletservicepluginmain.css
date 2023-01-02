@@ -1,0 +1,52 @@
+/* screen - tabletservicepluginmain */
+
+.tabletservicepluginmain {
+  background-color: var(--white);
+  height: 1080px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.tabletservicepluginmain .group-1 {
+  background-color: transparent;
+  height: 690px;
+  left: 420px;
+  position: absolute;
+  top: 290px;
+  width: 521px;
+}
+
+.tabletservicepluginmain .lnbc2-c-connector_0 {
+  background-color: transparent;
+  height: 1358px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletservicepluginmain .rectangle-lnbc2-c-connector_0 {
+  background-color: var(--concrete);
+  height: 1358px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.tabletservicepluginmain .group-2 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletservicepluginmain .group-3 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}

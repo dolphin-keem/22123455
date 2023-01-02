@@ -1,0 +1,689 @@
+/* screen - c2cconnectedwelcomepage */
+
+.c2cconnectedwelcomepage {
+  align-items: flex-end;
+  background-color: var(--white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 2373px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.c2cconnectedwelcomepage .overlap-group-x4QcKc {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 1207px;
+  position: relative;
+  width: 1920px;
+  z-index: 1;
+}
+
+.c2cconnectedwelcomepage .flex-col-gvxjGO {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 320px;
+  min-height: 923px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.c2cconnectedwelcomepage .auto-flex1-X6ixuI {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 58px;
+  position: relative;
+  width: 1600px;
+}
+
+.c2cconnectedwelcomepage .strong-man-gui-fIhW75 {
+  background-color: transparent;
+  height: 18px;
+  left: 820px;
+  position: absolute;
+  top: 30px;
+  width: 232px;
+}
+
+.c2cconnectedwelcomepage .web-sub_-title-fIhW75 {
+  background-color: transparent;
+  height: 58px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.c2cconnectedwelcomepage .group-container-X6ixuI {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 865px;
+  justify-content: flex-start;
+  margin-right: 20.0px;
+  margin-top: 0px;
+  min-width: 1420px;
+  position: relative;
+  width: auto;
+}
+
+.c2cconnectedwelcomepage .group-6-sA9X4m {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 865px;
+  position: relative;
+  width: 690px;
+}
+
+.c2cconnectedwelcomepage .group-7-sA9X4m {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 50px;
+  min-height: 355px;
+  position: relative;
+  width: 680px;
+}
+
+.c2cconnectedwelcomepage .table-guide-title-Lzndxb {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 56px;
+  position: relative;
+  width: 680px;
+}
+
+.c2cconnectedwelcomepage .group-4-Lzndxb {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 79px;
+  justify-content: flex-start;
+  margin-top: 0px;
+  min-width: 680px;
+  position: relative;
+  width: auto;
+}
+
+.c2cconnectedwelcomepage .table-guide-text1line-px5XT4 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  position: relative;
+  width: 50px;
+}
+
+.c2cconnectedwelcomepage .table-guide-text2line_-strongman-px5XT4 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 79px;
+  margin-left: 10px;
+  position: relative;
+  width: 340px;
+}
+
+.c2cconnectedwelcomepage .table-guide-text1line-VD74kE {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  margin-left: 10px;
+  position: relative;
+  width: 270px;
+}
+
+.c2cconnectedwelcomepage .group-9-Lzndxb {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 121px;
+  justify-content: flex-start;
+  margin-top: 10px;
+  min-width: 680px;
+  position: relative;
+  width: auto;
+}
+
+.c2cconnectedwelcomepage .table-guide-text1line-VyXtlb {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  position: relative;
+  width: 50px;
+}
+
+.c2cconnectedwelcomepage .table-guide-text2line_m-VyXtlb {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 121px;
+  margin-left: 10px;
+  position: relative;
+  width: 340px;
+}
+
+.c2cconnectedwelcomepage .table-guide-text1line-AJrded {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 59px;
+  margin-left: 10px;
+  position: relative;
+  width: 270px;
+}
+
+.c2cconnectedwelcomepage .group-10-Lzndxb {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 79px;
+  justify-content: flex-start;
+  margin-top: 10px;
+  min-width: 680px;
+  position: relative;
+  width: auto;
+}
+
+.c2cconnectedwelcomepage .table-guide-text1line-unwuxI {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  position: relative;
+  width: 50px;
+}
+
+.c2cconnectedwelcomepage .table-guide-text2line_m-unwuxI {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 79px;
+  margin-left: 10px;
+  position: relative;
+  width: 340px;
+}
+
+.c2cconnectedwelcomepage .table-guide-text2line-unwuxI {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 64px;
+  margin-left: 10px;
+  position: relative;
+  width: 270px;
+}
+
+.c2cconnectedwelcomepage .lnb-service-feature-gvxjGO {
+  background-color: var(--concrete);
+  height: 891px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.c2cconnectedwelcomepage .background-nMomNT {
+  background-color: var(--concrete);
+  height: 891px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.c2cconnectedwelcomepage .line-nMomNT {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.c2cconnectedwelcomepage .home-net-gui-guidelin-nMomNT {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.stackedgroup13 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.stackedgroup13 .web-index-title-reference-copy-2-RPtMOJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup13 .group-RPtMOJ {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup13 .empty-j7H5Yb {
+  background-color: transparent;
+  bottom: 0px;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  width: 100%;
+}
+
+.stackedgroup13 .line-copy-j7H5Yb {
+  background-color: transparent;
+  height: 2.44%;
+  left: 7.19%;
+  opacity: 0.2;
+  position: absolute;
+  top: 48.78%;
+  width: 85.62%;
+}
+
+.stackedgroup13 .empty-sonNDN {
+  background-color: transparent;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup13 .web-index-title-reference-copy-RPtMOJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup13 .group-copy-RPtMOJ {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup13 .empty-GQXU62 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  width: 100%;
+}
+
+.stackedgroup13 .line-copy-GQXU62 {
+  background-color: transparent;
+  height: 2.44%;
+  left: 7.19%;
+  opacity: 0.2;
+  position: absolute;
+  top: 48.78%;
+  width: 85.62%;
+}
+
+.stackedgroup13 .empty-KRY9FR {
+  background-color: transparent;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup13 .web-index-title-reference-RPtMOJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup13 .web-index-contents1dpeth_close-RPtMOJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup13 .web-index-contents1dpeth_close-ihvr0W {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup13 .web-index-contents1dpeth_close-oqIUQL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup13 .web-index-contents1dpeth_close-copy-2-RPtMOJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup13 .web-index-contents1dpeth_close-6szHHx {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup13 .web-index-contents1d-RPtMOJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup13 .web-index-contents1dpeth_open_selected-RPtMOJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup13 .web-index-contents1d-ihvr0W {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup13 .web-index-contents1d-oqIUQL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup13 .group-copy-2-RPtMOJ {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup13 .empty-PE08ay {
+  background-color: transparent;
+  bottom: 0px;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  width: 100%;
+}
+
+.stackedgroup13 .line-copy-PE08ay {
+  background-color: transparent;
+  height: 2.44%;
+  left: 7.19%;
+  opacity: 0.2;
+  position: absolute;
+  top: 48.78%;
+  width: 85.62%;
+}
+
+.stackedgroup13 .empty-ODv4zV {
+  background-color: transparent;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup13 .web-index-title-reference-copy-3-RPtMOJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.c2cconnectedwelcomepage .webgnb-gvxjGO {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2cconnectedwelcomepage .background-x4qawm {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2cconnectedwelcomepage .index-x4qawm {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 64px;
+  justify-content: flex-start;
+  left: 420px;
+  min-width: 123px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.c2cconnectedwelcomepage .web-index-select-RnQYIh {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 64px;
+  position: relative;
+  width: 32px;
+}
+
+.c2cconnectedwelcomepage .web-index-unselect-RnQYIh {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 64px;
+  margin-left: 60px;
+  position: relative;
+  width: 31px;
+}
+
+.c2cconnectedwelcomepage .web-index-unelect_main-x4qawm {
+  background-color: transparent;
+  background-image: url(../img/c2cconnectedneedapp-logo-A96B53CA-63FE-489E-A008-E6BA7B3CC4BF@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.c2cconnectedwelcomepage .web-title-area-x4QcKc {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+  z-index: 3;
+}
+
+.c2cconnectedwelcomepage .web-tabc2-c_apart-servide-connected-x4QcKc {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+  z-index: 4;
+}
+
+.c2cconnectedwelcomepage .tab-0tdiIA {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.c2cconnectedwelcomepage .overview-7pCcji {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 58px;
+}
+
+.c2cconnectedwelcomepage .onboarding_start-pag-7pCcji {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 144px;
+}
+
+.c2cconnectedwelcomepage .onboarding_-7pCcji {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 188px;
+}
+
+.c2cconnectedwelcomepage .onboarding_-welcome-p-7pCcji {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 172px;
+}
+
+.c2cconnectedwelcomepage .onboarding_-strongman-7pCcji {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 168px;
+}
+
+.c2cconnectedwelcomepage .group-8-x4QcKc {
+  align-self: center;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 866px;
+  margin-right: 720.0px;
+  margin-top: 100px;
+  position: relative;
+  width: 360px;
+  z-index: 2;
+}

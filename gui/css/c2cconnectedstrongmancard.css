@@ -1,0 +1,984 @@
+/* screen - c2cconnectedstrongmancard */
+
+.c2cconnectedstrongmancard {
+  align-items: flex-end;
+  background-color: var(--white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 2189px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.c2cconnectedstrongmancard .overlap-group-NZd2UG {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 891px;
+  position: relative;
+  width: 1920px;
+  z-index: 2;
+}
+
+.c2cconnectedstrongmancard .flex-col-x6ssQx {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 320px;
+  min-height: 561px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.c2cconnectedstrongmancard .auto-flex3-3CqyjI {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 58px;
+  position: relative;
+  width: 1600px;
+}
+
+.c2cconnectedstrongmancard .strong-man-gui-YyxQ97 {
+  background-color: transparent;
+  height: 18px;
+  left: 820px;
+  position: absolute;
+  top: 30px;
+  width: 232px;
+}
+
+.c2cconnectedstrongmancard .web-sub_-title-YyxQ97 {
+  background-color: transparent;
+  height: 58px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.c2cconnectedstrongmancard .group-container-3CqyjI {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 503px;
+  justify-content: flex-start;
+  margin-right: 20.0px;
+  margin-top: 0px;
+  min-width: 1420px;
+  position: relative;
+  width: auto;
+}
+
+.c2cconnectedstrongmancard .group-4-neQvQ5 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 417px;
+  position: relative;
+  width: 690px;
+}
+
+.c2cconnectedstrongmancard .group-10-neQvQ5 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 50px;
+  min-height: 503px;
+  position: relative;
+  width: 680px;
+}
+
+.c2cconnectedstrongmancard .table-guide-title-vVXJbO {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 56px;
+  position: relative;
+  width: 680px;
+}
+
+.c2cconnectedstrongmancard .group-6-vVXJbO {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 37px;
+  justify-content: flex-start;
+  margin-top: 0px;
+  min-width: 680px;
+  position: relative;
+  width: auto;
+}
+
+.c2cconnectedstrongmancard .table-guide-text1line-BpKJVj {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  position: relative;
+  width: 50px;
+}
+
+.c2cconnectedstrongmancard .table-guide-text1line_mint-BpKJVj {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  margin-left: 10px;
+  position: relative;
+  width: 340px;
+}
+
+.c2cconnectedstrongmancard .table-guide-text1line-DYYxBH {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  margin-left: 10px;
+  position: relative;
+  width: 270px;
+}
+
+.c2cconnectedstrongmancard .group-5-vVXJbO {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 37px;
+  justify-content: flex-start;
+  margin-top: 10px;
+  min-width: 680px;
+  position: relative;
+  width: auto;
+}
+
+.c2cconnectedstrongmancard .table-guide-text1line-vjcThx {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  position: relative;
+  width: 50px;
+}
+
+.c2cconnectedstrongmancard .table-guide-text1line-9xZ8Zx {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 37px;
+  margin-left: 10px;
+  position: relative;
+  width: 340px;
+}
+
+.c2cconnectedstrongmancard .table-guide-text1line-vnrv4S {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  margin-left: 10px;
+  position: relative;
+  width: 270px;
+}
+
+.c2cconnectedstrongmancard .group-3-vVXJbO {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 84px;
+  justify-content: flex-start;
+  margin-top: 10px;
+  min-width: 680px;
+  position: relative;
+  width: auto;
+}
+
+.c2cconnectedstrongmancard .table-guide-text1line-Lw49WY {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  position: relative;
+  width: 50px;
+}
+
+.c2cconnectedstrongmancard .table-guide-text1line-1LPaL1 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  margin-left: 10px;
+  position: relative;
+  width: 340px;
+}
+
+.c2cconnectedstrongmancard .table-guide-text2line-Lw49WY {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 84px;
+  margin-left: 10px;
+  position: relative;
+  width: 270px;
+}
+
+.c2cconnectedstrongmancard .group-7-vVXJbO {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 121px;
+  justify-content: flex-start;
+  margin-top: 10px;
+  min-width: 680px;
+  position: relative;
+  width: auto;
+}
+
+.c2cconnectedstrongmancard .table-guide-text1line-QtgVTe {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  position: relative;
+  width: 50px;
+}
+
+.c2cconnectedstrongmancard .table-guide-text2line_m-QtgVTe {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 121px;
+  margin-left: 10px;
+  position: relative;
+  width: 340px;
+}
+
+.c2cconnectedstrongmancard .table-guide-text1line-MOS4Tq {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  margin-left: 10px;
+  position: relative;
+  width: 270px;
+}
+
+.c2cconnectedstrongmancard .group-8-vVXJbO {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 59px;
+  justify-content: flex-start;
+  margin-top: 10px;
+  min-width: 680px;
+  position: relative;
+  width: auto;
+}
+
+.c2cconnectedstrongmancard .table-guide-text1line-iUrxuW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  position: relative;
+  width: 50px;
+}
+
+.c2cconnectedstrongmancard .table-guide-text2line_-strongman-iUrxuW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 59px;
+  margin-left: 10px;
+  position: relative;
+  width: 340px;
+}
+
+.c2cconnectedstrongmancard .table-guide-text1line-iCFYtW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  margin-left: 10px;
+  position: relative;
+  width: 270px;
+}
+
+.c2cconnectedstrongmancard .group-9-vVXJbO {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 59px;
+  justify-content: flex-start;
+  margin-top: 10px;
+  min-width: 680px;
+  position: relative;
+  width: auto;
+}
+
+.c2cconnectedstrongmancard .table-guide-text1line-cgboVR {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  position: relative;
+  width: 50px;
+}
+
+.c2cconnectedstrongmancard .table-guide-text2line_-strongman-cgboVR {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 59px;
+  margin-left: 10px;
+  position: relative;
+  width: 340px;
+}
+
+.c2cconnectedstrongmancard .table-guide-text1line-9Plex2 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  margin-left: 10px;
+  position: relative;
+  width: 270px;
+}
+
+.c2cconnectedstrongmancard .lnb-service-feature-x6ssQx {
+  background-color: var(--concrete);
+  height: 891px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.c2cconnectedstrongmancard .background-A5iyPN {
+  background-color: var(--concrete);
+  height: 891px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.c2cconnectedstrongmancard .line-A5iyPN {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.c2cconnectedstrongmancard .home-net-gui-guidelin-A5iyPN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.stackedgroup14 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.stackedgroup14 .web-index-title-reference-copy-2-YpOVFn {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup14 .group-YpOVFn {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup14 .empty-xP39Lh {
+  background-color: transparent;
+  bottom: 0px;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  width: 100%;
+}
+
+.stackedgroup14 .line-copy-xP39Lh {
+  background-color: transparent;
+  height: 2.44%;
+  left: 7.19%;
+  opacity: 0.2;
+  position: absolute;
+  top: 48.78%;
+  width: 85.62%;
+}
+
+.stackedgroup14 .empty-xQ5D32 {
+  background-color: transparent;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup14 .web-index-title-reference-copy-YpOVFn {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup14 .group-copy-YpOVFn {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup14 .empty-EyoVyr {
+  background-color: transparent;
+  bottom: 0px;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  width: 100%;
+}
+
+.stackedgroup14 .line-copy-EyoVyr {
+  background-color: transparent;
+  height: 2.44%;
+  left: 7.19%;
+  opacity: 0.2;
+  position: absolute;
+  top: 48.78%;
+  width: 85.62%;
+}
+
+.stackedgroup14 .empty-JIsxKL {
+  background-color: transparent;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup14 .web-index-title-reference-YpOVFn {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup14 .web-index-contents1dpeth_close-YpOVFn {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup14 .web-index-contents1dpeth_close-RVTZxP {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup14 .web-index-contents1dpeth_close-QxBwRB {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup14 .web-index-contents1dpeth_close-copy-2-YpOVFn {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup14 .web-index-contents1dpeth_close-mH7IU5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup14 .web-index-contents1d-YpOVFn {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup14 .web-index-contents1dpeth_open_selected-YpOVFn {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup14 .web-index-contents1d-RVTZxP {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup14 .web-index-contents1d-QxBwRB {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup14 .group-copy-2-YpOVFn {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup14 .empty-IgWnX6 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  width: 100%;
+}
+
+.stackedgroup14 .line-copy-IgWnX6 {
+  background-color: transparent;
+  height: 2.44%;
+  left: 7.19%;
+  opacity: 0.2;
+  position: absolute;
+  top: 48.78%;
+  width: 85.62%;
+}
+
+.stackedgroup14 .empty-qcFIHL {
+  background-color: transparent;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup14 .web-index-title-reference-copy-3-YpOVFn {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.c2cconnectedstrongmancard .webgnb-x6ssQx {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2cconnectedstrongmancard .background-OenOwZ {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.c2cconnectedstrongmancard .index-OenOwZ {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 64px;
+  justify-content: flex-start;
+  left: 420px;
+  min-width: 123px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.c2cconnectedstrongmancard .web-index-select-r5pZQ6 {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 64px;
+  position: relative;
+  width: 32px;
+}
+
+.c2cconnectedstrongmancard .web-index-unselect-r5pZQ6 {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 64px;
+  margin-left: 60px;
+  position: relative;
+  width: 31px;
+}
+
+.c2cconnectedstrongmancard .web-index-unelect_main-OenOwZ {
+  background-color: transparent;
+  background-image: url(../img/c2cconnectedneedapp-logo-A96B53CA-63FE-489E-A008-E6BA7B3CC4BF@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.c2cconnectedstrongmancard .web-title-area-NZd2UG {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+  z-index: 3;
+}
+
+.c2cconnectedstrongmancard .web-tabc2-c_apart-servide-connected-NZd2UG {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+  z-index: 4;
+}
+
+.c2cconnectedstrongmancard .tab-nQPHTG {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.c2cconnectedstrongmancard .overview-T8TlYv {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 58px;
+}
+
+.c2cconnectedstrongmancard .onboarding_start-pag-T8TlYv {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 144px;
+}
+
+.c2cconnectedstrongmancard .onboarding_-T8TlYv {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 188px;
+}
+
+.c2cconnectedstrongmancard .onboarding_-welcome-p-T8TlYv {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 160px;
+}
+
+.c2cconnectedstrongmancard .onboarding_-strongman-T8TlYv {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 181px;
+}
+
+.c2cconnectedstrongmancard .flex-row-NZd2UG {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 1044px;
+  justify-content: flex-start;
+  margin-right: 100px;
+  margin-top: 54px;
+  min-width: 1420px;
+  position: relative;
+  width: auto;
+  z-index: 1;
+}
+
+.c2cconnectedstrongmancard .group-14-x9ZcJ8 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 417px;
+  margin-top: 53.0px;
+  position: relative;
+  width: 690px;
+}
+
+.c2cconnectedstrongmancard .group-container-x9ZcJ8 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 50px;
+  min-height: 1044px;
+  position: relative;
+  width: 680px;
+}
+
+.c2cconnectedstrongmancard .group-3-copy-UeNdpx {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 190px;
+  position: relative;
+  width: 680px;
+}
+
+.c2cconnectedstrongmancard .group-10-copy-UeNdpx {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 442px;
+  justify-content: flex-start;
+  margin-top: 122px;
+  min-width: 680px;
+  position: relative;
+  width: auto;
+}
+
+.c2cconnectedstrongmancard .group-13-wVC2TV {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 442px;
+  position: relative;
+  width: 680px;
+}
+
+.c2cconnectedstrongmancard .strong-man-gui-copy-c8pd8e {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 18px;
+  position: relative;
+  width: 232px;
+}
+
+.c2cconnectedstrongmancard .table-guide-title-copy-2-c8pd8e {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 56px;
+  margin-top: 10px;
+  position: relative;
+  width: 680px;
+}
+
+.c2cconnectedstrongmancard .group-6-c8pd8e {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  margin-top: 0px;
+  position: relative;
+  width: 680px;
+}
+
+.c2cconnectedstrongmancard .group-5-c8pd8e {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 37px;
+  justify-content: flex-start;
+  margin-top: 10px;
+  min-width: 680px;
+  position: relative;
+  width: auto;
+}
+
+.c2cconnectedstrongmancard .table-guide-text1line-copy-3-fohIJ3 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  position: relative;
+  width: 50px;
+}
+
+.c2cconnectedstrongmancard .table-guide-text1line-copy-4-fohIJ3 {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 37px;
+  margin-left: 10px;
+  position: relative;
+  width: 340px;
+}
+
+.c2cconnectedstrongmancard .table-guide-text1line-copy-5-fohIJ3 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  margin-left: 10px;
+  position: relative;
+  width: 270px;
+}
+
+.c2cconnectedstrongmancard .group-3-c8pd8e {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 64px;
+  margin-top: 10px;
+  position: relative;
+  width: 680px;
+}
+
+.c2cconnectedstrongmancard .group-7-c8pd8e {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 121px;
+  margin-top: 10px;
+  position: relative;
+  width: 680px;
+}
+
+.c2cconnectedstrongmancard .group-8-c8pd8e {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 59px;
+  margin-top: 10px;
+  position: relative;
+  width: 680px;
+}
+
+.c2cconnectedstrongmancard .group-3-copy-2-UeNdpx {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 190px;
+  margin-top: 100px;
+  position: relative;
+  width: 680px;
+}

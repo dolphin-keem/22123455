@@ -1,0 +1,61 @@
+/* screen - tabletservicepluginservicepluginmenu */
+
+.tabletservicepluginservicepluginmenu {
+  background-color: var(--white);
+  height: 4309px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.tabletservicepluginservicepluginmenu .group-4 {
+  background-color: transparent;
+  height: 1049px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.tabletservicepluginservicepluginmenu .group-5 {
+  background-color: transparent;
+  height: 1099px;
+  left: 320px;
+  position: absolute;
+  top: 2218px;
+  width: 1600px;
+}
+
+.tabletservicepluginservicepluginmenu .group-3 {
+  background-color: transparent;
+  height: 535px;
+  left: 420px;
+  position: absolute;
+  top: 1483px;
+  width: 856px;
+}
+
+.tabletservicepluginservicepluginmenu .group-3-copy {
+  background-color: transparent;
+  height: 642px;
+  left: 420px;
+  position: absolute;
+  top: 3467px;
+  width: 1400px;
+}
+
+.tabletservicepluginservicepluginmenu .group-1 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletservicepluginservicepluginmenu .group-2 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}

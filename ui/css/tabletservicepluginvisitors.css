@@ -1,0 +1,61 @@
+/* screen - tabletservicepluginvisitors */
+
+.tabletservicepluginvisitors {
+  background-color: var(--white);
+  height: 4359px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.tabletservicepluginvisitors .group-5 {
+  background-color: transparent;
+  height: 1077px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.tabletservicepluginvisitors .group-6 {
+  background-color: transparent;
+  height: 1016px;
+  left: 320px;
+  position: absolute;
+  top: 2352px;
+  width: 1600px;
+}
+
+.tabletservicepluginvisitors .group-3 {
+  background-color: transparent;
+  height: 642px;
+  left: 420px;
+  position: absolute;
+  top: 1511px;
+  width: 1400px;
+}
+
+.tabletservicepluginvisitors .group-3-copy {
+  background-color: transparent;
+  height: 642px;
+  left: 420px;
+  position: absolute;
+  top: 3518px;
+  width: 1400px;
+}
+
+.tabletservicepluginvisitors .group-1 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletservicepluginvisitors .group-2 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}

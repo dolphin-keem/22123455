@@ -1,0 +1,108 @@
+/* screen - servicepluginhomehelpguideimage */
+
+.servicepluginhomehelpguideimage {
+  background-color: var(--white);
+  height: 5544px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.servicepluginhomehelpguideimage .group-61 {
+  background-color: transparent;
+  height: 1324px;
+  left: 420px;
+  position: absolute;
+  top: 1472px;
+  width: 1400px;
+}
+
+.servicepluginhomehelpguideimage .group-62 {
+  background-color: transparent;
+  height: 985px;
+  left: 320px;
+  position: absolute;
+  top: 337px;
+  width: 1600px;
+}
+
+.servicepluginhomehelpguideimage .group-60 {
+  background-color: transparent;
+  height: 927px;
+  left: 420px;
+  position: absolute;
+  top: 2946px;
+  width: 1400px;
+}
+
+.servicepluginhomehelpguideimage .group-59 {
+  background-color: transparent;
+  height: 1321px;
+  left: 420px;
+  position: absolute;
+  top: 4023px;
+  width: 1400px;
+}
+
+.servicepluginhomehelpguideimage .web-title-area {
+  background-color: transparent;
+  height: 224px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.servicepluginhomehelpguideimage .web-tab-service-plug-in_-home-screen {
+  background-color: transparent;
+  height: 100px;
+  left: 320px;
+  position: fixed;
+  top: 188px;
+  width: 1600px;
+}
+
+.servicepluginhomehelpguideimage .brand-type {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 69px;
+}
+
+.servicepluginhomehelpguideimage .app-link-copy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 54px;
+}
+
+.servicepluginhomehelpguideimage .notifications-_-feat {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 144px;
+}
+
+.servicepluginhomehelpguideimage .help-guide-_-expanda {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 179px;
+}
+
+.servicepluginhomehelpguideimage .rectangle-lnb-service-plug-in {
+  background-color: var(--concrete);
+  height: 1397px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}

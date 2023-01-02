@@ -1,0 +1,1595 @@
+/* screen - coreapplifetabservicecardquicklinktype */
+
+.coreapplifetabservicecardquicklinktype {
+  align-items: flex-end;
+  background-color: var(--white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 4902px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.coreapplifetabservicecardquicklinktype .overlap-group-k1WPvS {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 1128px;
+  position: relative;
+  width: 1920px;
+  z-index: 2;
+}
+
+.coreapplifetabservicecardquicklinktype .group-10-y0AfeN {
+  background-color: transparent;
+  height: 790px;
+  left: 320px;
+  position: absolute;
+  top: 338px;
+  width: 1600px;
+}
+
+.coreapplifetabservicecardquicklinktype .lnb-service-feature-y0AfeN {
+  background-color: var(--concrete);
+  height: 891px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.coreapplifetabservicecardquicklinktype .background-rcaIBW {
+  background-color: var(--concrete);
+  height: 891px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.coreapplifetabservicecardquicklinktype .line-rcaIBW {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.coreapplifetabservicecardquicklinktype .home-net-gui-guidelin-rcaIBW {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.stackedgroup37 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.stackedgroup37 .web-index-title-reference-copy-2-eRGhFg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup37 .group-eRGhFg {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup37 .empty-5AiKBk {
+  background-color: transparent;
+  bottom: 0px;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  width: 100%;
+}
+
+.stackedgroup37 .line-copy-5AiKBk {
+  background-color: transparent;
+  height: 2.44%;
+  left: 7.19%;
+  opacity: 0.2;
+  position: absolute;
+  top: 48.78%;
+  width: 85.62%;
+}
+
+.stackedgroup37 .empty-bn0OeK {
+  background-color: transparent;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup37 .web-index-title-reference-copy-eRGhFg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup37 .group-copy-eRGhFg {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup37 .empty-4z0Y1p {
+  background-color: transparent;
+  bottom: 0px;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  width: 100%;
+}
+
+.stackedgroup37 .line-copy-4z0Y1p {
+  background-color: transparent;
+  height: 2.44%;
+  left: 7.19%;
+  opacity: 0.2;
+  position: absolute;
+  top: 48.78%;
+  width: 85.62%;
+}
+
+.stackedgroup37 .empty-fqL3pO {
+  background-color: transparent;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup37 .web-index-title-reference-eRGhFg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup37 .web-index-contents1dpeth_close-eRGhFg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup37 .web-index-contents1dpeth_close-ZufxnJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup37 .web-index-contents1dpeth_close-TcvOR7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup37 .web-index-contents1dpeth_close-copy-2-eRGhFg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup37 .web-index-contents1dpeth_close-842lk6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup37 .web-index-contents1d-eRGhFg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup37 .web-index-contents1dpeth_open_selected-eRGhFg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup37 .web-index-contents1d-ZufxnJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup37 .web-index-contents1d-TcvOR7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup37 .group-copy-2-eRGhFg {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup37 .empty-QrGR1L {
+  background-color: transparent;
+  bottom: 0px;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  width: 100%;
+}
+
+.stackedgroup37 .line-copy-QrGR1L {
+  background-color: transparent;
+  height: 2.44%;
+  left: 7.19%;
+  opacity: 0.2;
+  position: absolute;
+  top: 48.78%;
+  width: 85.62%;
+}
+
+.stackedgroup37 .empty-nPtSFv {
+  background-color: transparent;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup37 .web-index-title-reference-copy-3-eRGhFg {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.coreapplifetabservicecardquicklinktype .webgnb-y0AfeN {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.coreapplifetabservicecardquicklinktype .background-sbcspu {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.coreapplifetabservicecardquicklinktype .index-sbcspu {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 64px;
+  justify-content: flex-start;
+  left: 420px;
+  min-width: 123px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.coreapplifetabservicecardquicklinktype .web-index-select-UDtBM6 {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 64px;
+  position: relative;
+  width: 32px;
+}
+
+.coreapplifetabservicecardquicklinktype .web-index-unselect-UDtBM6 {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 64px;
+  margin-left: 60px;
+  position: relative;
+  width: 31px;
+}
+
+.coreapplifetabservicecardquicklinktype .web-index-unelect_main-sbcspu {
+  background-color: transparent;
+  background-image: url(../img/c2cconnectedneedapp-logo-A96B53CA-63FE-489E-A008-E6BA7B3CC4BF@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.coreapplifetabservicecardquicklinktype .web-title-area-k1WPvS {
+  background-color: transparent;
+  height: 224px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+  z-index: 3;
+}
+
+.coreapplifetabservicecardquicklinktype .web-tabc2-c_re_popup-k1WPvS {
+  background-color: var(--white);
+  height: 100px;
+  left: 320px;
+  position: fixed;
+  top: 188px;
+  width: 1600px;
+  z-index: 4;
+}
+
+.coreapplifetabservicecardquicklinktype .background-ipwhF1 {
+  background-color: var(--white);
+  height: 100px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.coreapplifetabservicecardquicklinktype .x3rd-depth-ipwhF1 {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.coreapplifetabservicecardquicklinktype .tab-yufXnx {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.coreapplifetabservicecardquicklinktype .layout-M40sKv {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 42px;
+}
+
+.coreapplifetabservicecardquicklinktype .life-tab-M40sKv {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 47px;
+}
+
+.coreapplifetabservicecardquicklinktype .service-card-health-M40sKv {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 112px;
+}
+
+.coreapplifetabservicecardquicklinktype .basic-_-title-M40sKv {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 75px;
+}
+
+.coreapplifetabservicecardquicklinktype .basic-_-page-indicat-M40sKv {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 136px;
+}
+
+.coreapplifetabservicecardquicklinktype .basic-_-bg-copy-M40sKv {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 65px;
+}
+
+.coreapplifetabservicecardquicklinktype .basic-_-primary-colo-M40sKv {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 132px;
+}
+
+.coreapplifetabservicecardquicklinktype .x3rd-depth-copy-ipwhF1 {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 53px;
+  width: 1600px;
+}
+
+.coreapplifetabservicecardquicklinktype .tab-xxHhfp {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.coreapplifetabservicecardquicklinktype .basic-type-uAJp8a {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 63px;
+}
+
+.coreapplifetabservicecardquicklinktype .quick-link-type-copy-uAJp8a {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 93px;
+}
+
+.coreapplifetabservicecardquicklinktype .quick-link-type-_-se-uAJp8a {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 265px;
+}
+
+.coreapplifetabservicecardquicklinktype .quick-link-type-_-ic-uAJp8a {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 135px;
+}
+
+.coreapplifetabservicecardquicklinktype .banner-type-uAJp8a {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 75px;
+}
+
+.coreapplifetabservicecardquicklinktype .broken-token-uAJp8a {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 83px;
+}
+
+.coreapplifetabservicecardquicklinktype .flex-row-k1WPvS {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 3424px;
+  justify-content: flex-start;
+  margin-right: 100px;
+  margin-top: 150px;
+  min-width: 1440px;
+  position: relative;
+  width: auto;
+  z-index: 1;
+}
+
+.coreapplifetabservicecardquicklinktype .group-container-nHNVDY {
+  align-items: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 3424px;
+  position: relative;
+  width: 710px;
+}
+
+.coreapplifetabservicecardquicklinktype .group-11-mAO7FS {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 676px;
+  position: relative;
+  width: 710px;
+}
+
+.coreapplifetabservicecardquicklinktype .group-12-mAO7FS {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 693px;
+  margin-top: 188px;
+  position: relative;
+  width: 710px;
+}
+
+.coreapplifetabservicecardquicklinktype .group-13-mAO7FS {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 676px;
+  margin-top: 150px;
+  position: relative;
+  width: 690px;
+}
+
+.coreapplifetabservicecardquicklinktype .group-22-mAO7FS {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 853px;
+  margin-top: 188px;
+  position: relative;
+  width: 670px;
+}
+
+.coreapplifetabservicecardquicklinktype .group-container-EKlpxH {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 50px;
+  min-height: 2751px;
+  position: relative;
+  width: 680px;
+}
+
+.coreapplifetabservicecardquicklinktype .group-15-ybKlI6 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 714px;
+  position: relative;
+  width: 680px;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-title-Dfpl6s {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 56px;
+  position: relative;
+  width: 680px;
+}
+
+.coreapplifetabservicecardquicklinktype .group-4-copy-Dfpl6s {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 84px;
+  justify-content: flex-start;
+  margin-top: 0px;
+  min-width: 680px;
+  position: relative;
+  width: auto;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line-9JmEd1 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  position: relative;
+  width: 50px;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line_mint-9JmEd1 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  margin-left: 10px;
+  position: relative;
+  width: 340px;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line-Zap3Bd {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 84px;
+  margin-left: 10px;
+  position: relative;
+  width: 270px;
+}
+
+.coreapplifetabservicecardquicklinktype .group-4-copy-3-Dfpl6s {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 57px;
+  justify-content: flex-start;
+  margin-top: 10px;
+  min-width: 680px;
+  position: relative;
+  width: auto;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line-PMskNM {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  position: relative;
+  width: 50px;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line_mint-PMskNM {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 57px;
+  margin-left: 10px;
+  position: relative;
+  width: 340px;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line-6yI4vn {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  margin-left: 10px;
+  position: relative;
+  width: 270px;
+}
+
+.coreapplifetabservicecardquicklinktype .group-4-copy-4-Dfpl6s {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 57px;
+  justify-content: flex-start;
+  margin-top: 10px;
+  min-width: 680px;
+  position: relative;
+  width: auto;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line-boKFoj {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  position: relative;
+  width: 50px;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line_mint-boKFoj {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 57px;
+  margin-left: 10px;
+  position: relative;
+  width: 340px;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line-mh7yu5 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  margin-left: 10px;
+  position: relative;
+  width: 270px;
+}
+
+.coreapplifetabservicecardquicklinktype .group-4-copy-6-Dfpl6s {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 77px;
+  justify-content: flex-start;
+  margin-top: 10px;
+  min-width: 680px;
+  position: relative;
+  width: auto;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line-2CRSle {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  position: relative;
+  width: 50px;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line_mint-2CRSle {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 77px;
+  margin-left: 10px;
+  position: relative;
+  width: 340px;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line-sXSUzO {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  margin-left: 10px;
+  position: relative;
+  width: 270px;
+}
+
+.coreapplifetabservicecardquicklinktype .group-4-copy-7-Dfpl6s {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 57px;
+  justify-content: flex-start;
+  margin-top: 10px;
+  min-width: 680px;
+  position: relative;
+  width: auto;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line-lHu5lM {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  position: relative;
+  width: 50px;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line_mint-lHu5lM {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 57px;
+  margin-left: 10px;
+  position: relative;
+  width: 340px;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line-FaxY3l {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  margin-left: 10px;
+  position: relative;
+  width: 270px;
+}
+
+.coreapplifetabservicecardquicklinktype .group-5-Dfpl6s {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 276px;
+  justify-content: flex-start;
+  margin-top: 10px;
+  min-width: 680px;
+  position: relative;
+  width: auto;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line-cWy3AT {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  position: relative;
+  width: 50px;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line_mint-copy-cWy3AT {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 276px;
+  margin-left: 10px;
+  position: relative;
+  width: 340px;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line-L73q4e {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  margin-left: 10px;
+  position: relative;
+  width: 270px;
+}
+
+.coreapplifetabservicecardquicklinktype .group-17-ybKlI6 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 150px;
+  min-height: 694px;
+  position: relative;
+  width: 680px;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-title-aPeJQm {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 56px;
+  position: relative;
+  width: 680px;
+}
+
+.coreapplifetabservicecardquicklinktype .group-4-copy-aPeJQm {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 84px;
+  justify-content: flex-start;
+  margin-top: 0px;
+  min-width: 680px;
+  position: relative;
+  width: auto;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line-v6HYA4 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  position: relative;
+  width: 50px;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line_mint-v6HYA4 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  margin-left: 10px;
+  position: relative;
+  width: 340px;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line-PgGF29 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 84px;
+  margin-left: 10px;
+  position: relative;
+  width: 270px;
+}
+
+.coreapplifetabservicecardquicklinktype .group-4-copy-3-aPeJQm {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 57px;
+  justify-content: flex-start;
+  margin-top: 10px;
+  min-width: 680px;
+  position: relative;
+  width: auto;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line-txtNDb {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  position: relative;
+  width: 50px;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line_mint-txtNDb {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 57px;
+  margin-left: 10px;
+  position: relative;
+  width: 340px;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line-nx37kW {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  margin-left: 10px;
+  position: relative;
+  width: 270px;
+}
+
+.coreapplifetabservicecardquicklinktype .group-4-copy-4-aPeJQm {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 57px;
+  justify-content: flex-start;
+  margin-top: 10px;
+  min-width: 680px;
+  position: relative;
+  width: auto;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line-YIpqaC {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  position: relative;
+  width: 50px;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line_mint-YIpqaC {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 57px;
+  margin-left: 10px;
+  position: relative;
+  width: 340px;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line-bDll1i {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  margin-left: 10px;
+  position: relative;
+  width: 270px;
+}
+
+.coreapplifetabservicecardquicklinktype .group-4-copy-6-aPeJQm {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 57px;
+  justify-content: flex-start;
+  margin-top: 10px;
+  min-width: 680px;
+  position: relative;
+  width: auto;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line-Kg2frG {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  position: relative;
+  width: 50px;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line_mint-Kg2frG {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 57px;
+  margin-left: 10px;
+  position: relative;
+  width: 340px;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line-QJIAxV {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  margin-left: 10px;
+  position: relative;
+  width: 270px;
+}
+
+.coreapplifetabservicecardquicklinktype .group-4-copy-7-aPeJQm {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 57px;
+  justify-content: flex-start;
+  margin-top: 10px;
+  min-width: 680px;
+  position: relative;
+  width: auto;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line-pxJd9B {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  position: relative;
+  width: 50px;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line_mint-pxJd9B {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 57px;
+  margin-left: 10px;
+  position: relative;
+  width: 340px;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line-KqFl7P {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  margin-left: 10px;
+  position: relative;
+  width: 270px;
+}
+
+.coreapplifetabservicecardquicklinktype .group-16-aPeJQm {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 276px;
+  justify-content: flex-start;
+  margin-top: 10px;
+  min-width: 680px;
+  position: relative;
+  width: auto;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line-ov04OT {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  position: relative;
+  width: 50px;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line_mint-copy-ov04OT {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 276px;
+  margin-left: 10px;
+  position: relative;
+  width: 340px;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line-BtzL4A {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  margin-left: 10px;
+  position: relative;
+  width: 270px;
+}
+
+.coreapplifetabservicecardquicklinktype .group-18-ybKlI6 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 149px;
+  min-height: 714px;
+  position: relative;
+  width: 680px;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-title-PCTc14 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 56px;
+  position: relative;
+  width: 680px;
+}
+
+.coreapplifetabservicecardquicklinktype .group-4-copy-PCTc14 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 84px;
+  justify-content: flex-start;
+  margin-top: 0px;
+  min-width: 680px;
+  position: relative;
+  width: auto;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line-orhtAX {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  position: relative;
+  width: 50px;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line_mint-orhtAX {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  margin-left: 10px;
+  position: relative;
+  width: 340px;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line-PHDLUb {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 84px;
+  margin-left: 10px;
+  position: relative;
+  width: 270px;
+}
+
+.coreapplifetabservicecardquicklinktype .group-4-copy-3-PCTc14 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 57px;
+  justify-content: flex-start;
+  margin-top: 10px;
+  min-width: 680px;
+  position: relative;
+  width: auto;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line-qER7Mo {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  position: relative;
+  width: 50px;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line_mint-qER7Mo {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 57px;
+  margin-left: 10px;
+  position: relative;
+  width: 340px;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line-ZdSuxr {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  margin-left: 10px;
+  position: relative;
+  width: 270px;
+}
+
+.coreapplifetabservicecardquicklinktype .group-4-copy-4-PCTc14 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 57px;
+  justify-content: flex-start;
+  margin-top: 10px;
+  min-width: 680px;
+  position: relative;
+  width: auto;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line-NJiooC {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  position: relative;
+  width: 50px;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line_mint-NJiooC {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 57px;
+  margin-left: 10px;
+  position: relative;
+  width: 340px;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line-3CzWJD {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  margin-left: 10px;
+  position: relative;
+  width: 270px;
+}
+
+.coreapplifetabservicecardquicklinktype .group-4-copy-6-PCTc14 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 77px;
+  justify-content: flex-start;
+  margin-top: 10px;
+  min-width: 680px;
+  position: relative;
+  width: auto;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line-4GB15S {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  position: relative;
+  width: 50px;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line_mint-4GB15S {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 77px;
+  margin-left: 10px;
+  position: relative;
+  width: 340px;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line-qHdVxB {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  margin-left: 10px;
+  position: relative;
+  width: 270px;
+}
+
+.coreapplifetabservicecardquicklinktype .group-4-copy-7-PCTc14 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 57px;
+  justify-content: flex-start;
+  margin-top: 10px;
+  min-width: 680px;
+  position: relative;
+  width: auto;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line-iMu3Yc {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  position: relative;
+  width: 50px;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line_mint-iMu3Yc {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 57px;
+  margin-left: 10px;
+  position: relative;
+  width: 340px;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line-kIiHee {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  margin-left: 10px;
+  position: relative;
+  width: 270px;
+}
+
+.coreapplifetabservicecardquicklinktype .group-9-PCTc14 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 276px;
+  justify-content: flex-start;
+  margin-top: 10px;
+  min-width: 680px;
+  position: relative;
+  width: auto;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line-sXxkZS {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  position: relative;
+  width: 50px;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line_mint-copy-sXxkZS {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 276px;
+  margin-left: 10px;
+  position: relative;
+  width: 340px;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line-LwXuGX {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  margin-left: 10px;
+  position: relative;
+  width: 270px;
+}
+
+.coreapplifetabservicecardquicklinktype .group-5-copy-3-ybKlI6 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 150px;
+  min-height: 180px;
+  position: relative;
+  width: 680px;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-title-0tBnO8 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 56px;
+  position: relative;
+  width: 680px;
+}
+
+.coreapplifetabservicecardquicklinktype .group-4-copy-0tBnO8 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 57px;
+  justify-content: flex-start;
+  margin-top: 0px;
+  min-width: 680px;
+  position: relative;
+  width: auto;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line-LCWLwL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  position: relative;
+  width: 50px;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line_mint-LCWLwL {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 57px;
+  margin-left: 10px;
+  position: relative;
+  width: 340px;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line-DGR1dG {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  margin-left: 10px;
+  position: relative;
+  width: 270px;
+}
+
+.coreapplifetabservicecardquicklinktype .group-4-copy-3-0tBnO8 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 57px;
+  justify-content: flex-start;
+  margin-top: 10px;
+  min-width: 680px;
+  position: relative;
+  width: auto;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line-Hq97rU {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  position: relative;
+  width: 50px;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line_mint-Hq97rU {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 57px;
+  margin-left: 10px;
+  position: relative;
+  width: 340px;
+}
+
+.coreapplifetabservicecardquicklinktype .table-guide-text1line-BvYtGy {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  margin-left: 10px;
+  position: relative;
+  width: 270px;
+}

@@ -1,0 +1,133 @@
+/* screen - servicepluginreservevisitorvehicleinteractionflow */
+
+.servicepluginreservevisitorvehicleinteractionflow {
+  background-color: var(--white);
+  height: 6272px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.servicepluginreservevisitorvehicleinteractionflow .group-13 {
+  background-color: transparent;
+  height: 835px;
+  left: 420px;
+  position: absolute;
+  top: 4401px;
+  width: 1404px;
+}
+
+.servicepluginreservevisitorvehicleinteractionflow .group-14 {
+  background-color: transparent;
+  height: 736px;
+  left: 420px;
+  position: absolute;
+  top: 5336px;
+  width: 836px;
+}
+
+.servicepluginreservevisitorvehicleinteractionflow .group-9 {
+  background-color: transparent;
+  height: 913px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.servicepluginreservevisitorvehicleinteractionflow .group-10 {
+  background-color: transparent;
+  height: 833px;
+  left: 420px;
+  position: absolute;
+  top: 1347px;
+  width: 1400px;
+}
+
+.servicepluginreservevisitorvehicleinteractionflow .group-11 {
+  background-color: transparent;
+  height: 1028px;
+  left: 420px;
+  position: absolute;
+  top: 2330px;
+  width: 1400px;
+}
+
+.servicepluginreservevisitorvehicleinteractionflow .group-12 {
+  background-color: transparent;
+  height: 744px;
+  left: 420px;
+  position: absolute;
+  top: 3508px;
+  width: 1400px;
+}
+
+.servicepluginreservevisitorvehicleinteractionflow .web-title-area {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.servicepluginreservevisitorvehicleinteractionflow .web-tab-service-plug-in_cctv {
+  background-color: transparent;
+  height: 47px;
+  left: 320px;
+  position: fixed;
+  top: 187px;
+  width: 1600px;
+}
+
+.servicepluginreservevisitorvehicleinteractionflow .x3rd-depth {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.servicepluginreservevisitorvehicleinteractionflow .feature {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 48px;
+}
+
+.servicepluginreservevisitorvehicleinteractionflow .interaction-flow {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 99px;
+}
+
+.servicepluginreservevisitorvehicleinteractionflow .group-1 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginreservevisitorvehicleinteractionflow .group-2 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginreservevisitorvehicleinteractionflow .webgnb {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}

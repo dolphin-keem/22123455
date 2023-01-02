@@ -1,0 +1,61 @@
+/* screen - tabletservicepluginmaintenancefeegrapho */
+
+.tabletservicepluginmaintenancefeegrapho {
+  background-color: var(--white);
+  height: 2482px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.tabletservicepluginmaintenancefeegrapho .group-3 {
+  background-color: transparent;
+  height: 1079px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.tabletservicepluginmaintenancefeegrapho .group-3-copy {
+  background-color: transparent;
+  height: 770px;
+  left: 420px;
+  position: absolute;
+  top: 1513px;
+  width: 1400px;
+}
+
+.tabletservicepluginmaintenancefeegrapho .image {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 105px;
+}
+
+.tabletservicepluginmaintenancefeegrapho .x {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 188px;
+}
+
+.tabletservicepluginmaintenancefeegrapho .group-1 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletservicepluginmaintenancefeegrapho .group-2 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}

@@ -1,0 +1,27 @@
+/* screen - servicepluginmain */
+
+.servicepluginmain {
+  background-color: var(--white);
+  height: 1166px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.servicepluginmain .group-2 {
+  background-color: transparent;
+  height: 731px;
+  left: 420px;
+  position: absolute;
+  top: 290px;
+  width: 537px;
+}
+
+.servicepluginmain .rectangle-lnb-service-plug-in {
+  background-color: var(--concrete);
+  height: 1310px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}

@@ -1,0 +1,1178 @@
+/* screen - coreapplifetabservicecardbrokenlayout */
+
+.coreapplifetabservicecardbrokenlayout {
+  align-items: flex-end;
+  background-color: var(--white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 4874px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.coreapplifetabservicecardbrokenlayout .overlap-group-Y9FLxc {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 1452px;
+  position: relative;
+  width: 1920px;
+  z-index: 2;
+}
+
+.coreapplifetabservicecardbrokenlayout .flex-col-Zli972 {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 320px;
+  min-height: 1114px;
+  position: absolute;
+  top: 338px;
+  width: 1600px;
+}
+
+.coreapplifetabservicecardbrokenlayout .web-sub_-title-vnygoo {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 58px;
+  position: relative;
+  width: 1600px;
+}
+
+.coreapplifetabservicecardbrokenlayout .group-container-vnygoo {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 1056px;
+  justify-content: flex-start;
+  margin-right: 20.0px;
+  margin-top: 0px;
+  min-width: 1420px;
+  position: relative;
+  width: auto;
+}
+
+.coreapplifetabservicecardbrokenlayout .group-8-Pzdqf0 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 1056px;
+  position: relative;
+  width: 690px;
+}
+
+.coreapplifetabservicecardbrokenlayout .group-5-Pzdqf0 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 50px;
+  min-height: 113px;
+  position: relative;
+  width: 680px;
+}
+
+.coreapplifetabservicecardbrokenlayout .table-guide-title-rZVZx1 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 56px;
+  position: relative;
+  width: 680px;
+}
+
+.coreapplifetabservicecardbrokenlayout .group-4-copy-rZVZx1 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 57px;
+  justify-content: flex-start;
+  margin-top: 0px;
+  min-width: 680px;
+  position: relative;
+  width: auto;
+}
+
+.coreapplifetabservicecardbrokenlayout .table-guide-text1line-Apm7xL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  position: relative;
+  width: 50px;
+}
+
+.coreapplifetabservicecardbrokenlayout .table-guide-text1line_mint-Apm7xL {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 57px;
+  margin-left: 10px;
+  position: relative;
+  width: 340px;
+}
+
+.coreapplifetabservicecardbrokenlayout .table-guide-text1line-AYA3Rx {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  margin-left: 10px;
+  position: relative;
+  width: 270px;
+}
+
+.coreapplifetabservicecardbrokenlayout .lnb-service-feature-Zli972 {
+  background-color: var(--concrete);
+  height: 891px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.coreapplifetabservicecardbrokenlayout .background-NtM0se {
+  background-color: var(--concrete);
+  height: 891px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.coreapplifetabservicecardbrokenlayout .line-NtM0se {
+  background-color: transparent;
+  height: 2px;
+  left: 22px;
+  opacity: 0.2;
+  position: absolute;
+  top: 154px;
+  width: 275px;
+}
+
+.coreapplifetabservicecardbrokenlayout .home-net-gui-guidelin-NtM0se {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 24px;
+  position: absolute;
+  top: 100px;
+  width: 212px;
+}
+
+.stackedgroup41 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 170px;
+  width: 320px;
+}
+
+.stackedgroup41 .web-index-title-reference-copy-2-KYDZvq {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup41 .group-KYDZvq {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup41 .empty-ayBnw8 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  width: 100%;
+}
+
+.stackedgroup41 .line-copy-ayBnw8 {
+  background-color: transparent;
+  height: 2.44%;
+  left: 7.19%;
+  opacity: 0.2;
+  position: absolute;
+  top: 48.78%;
+  width: 85.62%;
+}
+
+.stackedgroup41 .empty-lVsEMB {
+  background-color: transparent;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup41 .web-index-title-reference-copy-KYDZvq {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup41 .group-copy-KYDZvq {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup41 .empty-kwacQ2 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  width: 100%;
+}
+
+.stackedgroup41 .line-copy-kwacQ2 {
+  background-color: transparent;
+  height: 2.44%;
+  left: 7.19%;
+  opacity: 0.2;
+  position: absolute;
+  top: 48.78%;
+  width: 85.62%;
+}
+
+.stackedgroup41 .empty-inNpZN {
+  background-color: transparent;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup41 .web-index-title-reference-KYDZvq {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup41 .web-index-contents1dpeth_close-KYDZvq {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup41 .web-index-contents1dpeth_close-b1O4wQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup41 .web-index-contents1dpeth_close-ZuureX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup41 .web-index-contents1dpeth_close-copy-2-KYDZvq {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup41 .web-index-contents1dpeth_close-57xzbM {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup41 .web-index-contents1d-KYDZvq {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup41 .web-index-contents1dpeth_open_selected-KYDZvq {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup41 .web-index-contents1d-b1O4wQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup41 .web-index-contents1d-ZuureX {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup41 .group-copy-2-KYDZvq {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.stackedgroup41 .empty-iGDQO5 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  width: 100%;
+}
+
+.stackedgroup41 .line-copy-iGDQO5 {
+  background-color: transparent;
+  height: 2.44%;
+  left: 7.19%;
+  opacity: 0.2;
+  position: absolute;
+  top: 48.78%;
+  width: 85.62%;
+}
+
+.stackedgroup41 .empty-i4yZaV {
+  background-color: transparent;
+  height: 48.78%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.stackedgroup41 .web-index-title-reference-copy-3-KYDZvq {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  margin: 0px 0 0 0;
+  opacity: 1;
+  position: relative;
+  width: 100%;
+}
+
+.coreapplifetabservicecardbrokenlayout .webgnb-Zli972 {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.coreapplifetabservicecardbrokenlayout .background-uw64Tl {
+  background-color: var(--shark);
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.coreapplifetabservicecardbrokenlayout .index-uw64Tl {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 64px;
+  justify-content: flex-start;
+  left: 420px;
+  min-width: 123px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+
+.coreapplifetabservicecardbrokenlayout .web-index-select-m8SAts {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 64px;
+  position: relative;
+  width: 32px;
+}
+
+.coreapplifetabservicecardbrokenlayout .web-index-unselect-m8SAts {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 64px;
+  margin-left: 60px;
+  position: relative;
+  width: 31px;
+}
+
+.coreapplifetabservicecardbrokenlayout .web-index-unelect_main-uw64Tl {
+  background-color: transparent;
+  background-image: url(../img/c2cconnectedneedapp-logo-A96B53CA-63FE-489E-A008-E6BA7B3CC4BF@2x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 24px;
+  left: 18px;
+  position: absolute;
+  top: 20px;
+  width: 293px;
+}
+
+.coreapplifetabservicecardbrokenlayout .web-title-area-Y9FLxc {
+  background-color: transparent;
+  height: 224px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+  z-index: 4;
+}
+
+.coreapplifetabservicecardbrokenlayout .web-tabc2-c_re_popup-Y9FLxc {
+  background-color: var(--white);
+  height: 100px;
+  left: 320px;
+  position: fixed;
+  top: 188px;
+  width: 1600px;
+  z-index: 5;
+}
+
+.coreapplifetabservicecardbrokenlayout .background-YAurxi {
+  background-color: var(--white);
+  height: 100px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.coreapplifetabservicecardbrokenlayout .x3rd-depth-YAurxi {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1600px;
+}
+
+.coreapplifetabservicecardbrokenlayout .tab-45z8Wx {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.coreapplifetabservicecardbrokenlayout .layout-AJ0rpg {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 42px;
+}
+
+.coreapplifetabservicecardbrokenlayout .life-tab-AJ0rpg {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 47px;
+}
+
+.coreapplifetabservicecardbrokenlayout .service-card-health-AJ0rpg {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 112px;
+}
+
+.coreapplifetabservicecardbrokenlayout .basic-_-title-AJ0rpg {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 75px;
+}
+
+.coreapplifetabservicecardbrokenlayout .basic-_-page-indicat-AJ0rpg {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 136px;
+}
+
+.coreapplifetabservicecardbrokenlayout .basic-_-bg-copy-AJ0rpg {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 65px;
+}
+
+.coreapplifetabservicecardbrokenlayout .basic-_-primary-colo-AJ0rpg {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 132px;
+}
+
+.coreapplifetabservicecardbrokenlayout .x3rd-depth-copy-YAurxi {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: absolute;
+  top: 53px;
+  width: 1600px;
+}
+
+.coreapplifetabservicecardbrokenlayout .tab-Qce86Z {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  height: 17px;
+  justify-content: flex-start;
+  left: 100px;
+  position: relative;
+  top: 0px;
+  width: auto;
+}
+
+.coreapplifetabservicecardbrokenlayout .basic-type-rqiqLm {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 63px;
+}
+
+.coreapplifetabservicecardbrokenlayout .quick-link-type-copy-rqiqLm {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 92px;
+}
+
+.coreapplifetabservicecardbrokenlayout .quick-link-type-_-se-rqiqLm {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 265px;
+}
+
+.coreapplifetabservicecardbrokenlayout .quick-link-type-_-ic-rqiqLm {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 135px;
+}
+
+.coreapplifetabservicecardbrokenlayout .banner-type-rqiqLm {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 75px;
+}
+
+.coreapplifetabservicecardbrokenlayout .broken-token-rqiqLm {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 83px;
+}
+
+.coreapplifetabservicecardbrokenlayout .flex-row-Y9FLxc {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 363px;
+  justify-content: flex-start;
+  margin-right: 100px;
+  margin-top: 0px;
+  min-width: 1440px;
+  position: relative;
+  width: auto;
+  z-index: 3;
+}
+
+.coreapplifetabservicecardbrokenlayout .overlap-group1-8KPymg {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 323px;
+  position: relative;
+  width: 710px;
+}
+
+.coreapplifetabservicecardbrokenlayout .table-guide-title-copy-16-l6JxS0 {
+  background-color: transparent;
+  height: 56px;
+  left: 40px;
+  position: absolute;
+  top: 0px;
+  width: 670px;
+}
+
+.coreapplifetabservicecardbrokenlayout .group-9-l6JxS0 {
+  background-color: transparent;
+  height: 287px;
+  left: 0px;
+  position: absolute;
+  top: 36px;
+  width: 413px;
+}
+
+.coreapplifetabservicecardbrokenlayout .flex-col-8KPymg {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 50px;
+  min-height: 363px;
+  position: relative;
+  width: 680px;
+}
+
+.coreapplifetabservicecardbrokenlayout .table-guide-title-Ztl97S {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 56px;
+  position: relative;
+  width: 680px;
+}
+
+.coreapplifetabservicecardbrokenlayout .group-4-copy-Ztl97S {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 104px;
+  justify-content: flex-start;
+  margin-top: 0px;
+  min-width: 680px;
+  position: relative;
+  width: auto;
+}
+
+.coreapplifetabservicecardbrokenlayout .table-guide-text1line-F8vG35 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  position: relative;
+  width: 50px;
+}
+
+.coreapplifetabservicecardbrokenlayout .table-guide-text1line_mint-F8vG35 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 59px;
+  margin-left: 10px;
+  position: relative;
+  width: 340px;
+}
+
+.coreapplifetabservicecardbrokenlayout .table-guide-text1line-xq0kMd {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 104px;
+  margin-left: 10px;
+  position: relative;
+  width: 270px;
+}
+
+.coreapplifetabservicecardbrokenlayout .group-4-copy-5-Ztl97S {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 57px;
+  justify-content: flex-start;
+  margin-top: 10px;
+  min-width: 680px;
+  position: relative;
+  width: auto;
+}
+
+.coreapplifetabservicecardbrokenlayout .table-guide-text1line-9ME3xl {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  position: relative;
+  width: 50px;
+}
+
+.coreapplifetabservicecardbrokenlayout .table-guide-text1line_mint-9ME3xl {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 57px;
+  margin-left: 10px;
+  position: relative;
+  width: 340px;
+}
+
+.coreapplifetabservicecardbrokenlayout .table-guide-text1line-Xx3GS0 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  margin-left: 10px;
+  position: relative;
+  width: 270px;
+}
+
+.coreapplifetabservicecardbrokenlayout .group-4-copy-4-Ztl97S {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 57px;
+  justify-content: flex-start;
+  margin-top: 10px;
+  min-width: 680px;
+  position: relative;
+  width: auto;
+}
+
+.coreapplifetabservicecardbrokenlayout .table-guide-text1line-LxtLUL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  position: relative;
+  width: 50px;
+}
+
+.coreapplifetabservicecardbrokenlayout .table-guide-text1line_mint-LxtLUL {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 57px;
+  margin-left: 10px;
+  position: relative;
+  width: 340px;
+}
+
+.coreapplifetabservicecardbrokenlayout .table-guide-text1line-jpxSxu {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  margin-left: 10px;
+  position: relative;
+  width: 270px;
+}
+
+.coreapplifetabservicecardbrokenlayout .group-4-copy-6-Ztl97S {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 57px;
+  justify-content: flex-start;
+  margin-top: 12px;
+  min-width: 680px;
+  position: relative;
+  width: auto;
+}
+
+.coreapplifetabservicecardbrokenlayout .table-guide-text1line-t5EPcq {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  position: relative;
+  width: 50px;
+}
+
+.coreapplifetabservicecardbrokenlayout .table-guide-text1line_mint-t5EPcq {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 57px;
+  margin-left: 10px;
+  position: relative;
+  width: 340px;
+}
+
+.coreapplifetabservicecardbrokenlayout .table-guide-text1line-1TTKa6 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  margin-left: 10px;
+  position: relative;
+  width: 270px;
+}
+
+.coreapplifetabservicecardbrokenlayout .flex-col-Y9FLxc {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 10px;
+  min-height: 2849px;
+  position: relative;
+  width: 1600px;
+  z-index: 1;
+}
+
+.coreapplifetabservicecardbrokenlayout .flex-col-2dbx4a {
+  align-items: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 1084px;
+  position: relative;
+  width: 1600px;
+}
+
+.coreapplifetabservicecardbrokenlayout .group-4-copy-7-fORNZB {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 57px;
+  justify-content: flex-start;
+  margin-right: 100px;
+  min-width: 680px;
+  position: relative;
+  width: auto;
+}
+
+.coreapplifetabservicecardbrokenlayout .table-guide-text1line-CrXHdi {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  position: relative;
+  width: 50px;
+}
+
+.coreapplifetabservicecardbrokenlayout .table-guide-text1line_mint-CrXHdi {
+  background-color: transparent;
+  cursor: pointer;
+  flex-shrink: 1;
+  height: 57px;
+  margin-left: 10px;
+  position: relative;
+  width: 340px;
+}
+
+.coreapplifetabservicecardbrokenlayout .table-guide-text1line-oyQ1N8 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 37px;
+  margin-left: 10px;
+  position: relative;
+  width: 270px;
+}
+
+.coreapplifetabservicecardbrokenlayout .web-sub_-title-copy-fORNZB {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 58px;
+  margin-top: 200px;
+  position: relative;
+  width: 1600px;
+}
+
+.coreapplifetabservicecardbrokenlayout .flex-row-fORNZB {
+  align-items: flex-start;
+  align-self: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 511px;
+  justify-content: flex-start;
+  margin-right: 40.0px;
+  margin-top: 0px;
+  min-width: 1440px;
+  position: relative;
+  width: auto;
+}
+
+.coreapplifetabservicecardbrokenlayout .group-10-vGxKFM {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 289px;
+  position: relative;
+  width: 710px;
+}
+
+.coreapplifetabservicecardbrokenlayout .group-container-vGxKFM {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 50px;
+  min-height: 511px;
+  position: relative;
+  width: 680px;
+}
+
+.coreapplifetabservicecardbrokenlayout .group-5-copy-l40RxA {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 318px;
+  position: relative;
+  width: 680px;
+}
+
+.coreapplifetabservicecardbrokenlayout .group-3-copy-2-l40RxA {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 93px;
+  margin-top: 100px;
+  position: relative;
+  width: 680px;
+}
+
+.coreapplifetabservicecardbrokenlayout .web-sub_-title-copy-2-fORNZB {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 58px;
+  margin-top: 200px;
+  position: relative;
+  width: 1600px;
+}
+
+.coreapplifetabservicecardbrokenlayout .flex-row-2dbx4a {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 397px;
+  justify-content: flex-start;
+  margin-right: 40.0px;
+  margin-top: 0px;
+  min-width: 1440px;
+  position: relative;
+  width: auto;
+}
+
+.coreapplifetabservicecardbrokenlayout .group-14-LBoXCt {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 307px;
+  position: relative;
+  width: 710px;
+}
+
+.coreapplifetabservicecardbrokenlayout .copy-container-LBoXCt {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 50px;
+  min-height: 397px;
+  position: relative;
+  width: 680px;
+}
+
+.coreapplifetabservicecardbrokenlayout .group-5-copy-2-jK73Hx {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 204px;
+  position: relative;
+  width: 680px;
+}
+
+.coreapplifetabservicecardbrokenlayout .group-3-copy-3-jK73Hx {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 93px;
+  margin-top: 100px;
+  position: relative;
+  width: 680px;
+}
+
+.coreapplifetabservicecardbrokenlayout .web-sub_-title-copy-3-2dbx4a {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 58px;
+  margin-top: 200px;
+  position: relative;
+  width: 1600px;
+}
+
+.coreapplifetabservicecardbrokenlayout .group-container-2dbx4a {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 350px;
+  justify-content: flex-start;
+  margin-right: 28.0px;
+  margin-top: 0px;
+  min-width: 1428px;
+  position: relative;
+  width: auto;
+}
+
+.coreapplifetabservicecardbrokenlayout .group-12-rwxpxO {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 350px;
+  position: relative;
+  width: 698px;
+}
+
+.coreapplifetabservicecardbrokenlayout .group-3-copy-4-rwxpxO {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 93px;
+  margin-left: 50px;
+  position: relative;
+  width: 680px;
+}
+
+.coreapplifetabservicecardbrokenlayout .group-13-2dbx4a {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 560px;
+  margin-top: 200px;
+  position: relative;
+  width: 1600px;
+}

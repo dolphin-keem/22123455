@@ -1,0 +1,108 @@
+/* screen - servicepluginhometoucharea */
+
+.servicepluginhometoucharea {
+  background-color: var(--white);
+  height: 2496px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.servicepluginhometoucharea .group-2 {
+  background-color: transparent;
+  height: 910px;
+  left: 418px;
+  position: absolute;
+  top: 1386px;
+  width: 361px;
+}
+
+.servicepluginhometoucharea .group-4 {
+  background-color: transparent;
+  height: 891px;
+  left: 420px;
+  position: absolute;
+  top: 395px;
+  width: 670px;
+}
+
+.servicepluginhometoucharea .group-6 {
+  background-color: transparent;
+  height: 140px;
+  left: 1140px;
+  position: absolute;
+  top: 395px;
+  width: 680px;
+}
+
+.servicepluginhometoucharea .web-sub_-title {
+  background-color: transparent;
+  height: 58px;
+  left: 320px;
+  position: absolute;
+  top: 337px;
+  width: 1600px;
+}
+
+.servicepluginhometoucharea .web-title-area {
+  background-color: transparent;
+  height: 224px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.servicepluginhometoucharea .rectangle-lnb-service-plug-in {
+  background-color: var(--concrete);
+  height: 1397px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 320px;
+}
+
+.servicepluginhometoucharea .web-tab-service-plug-in_-home-screen {
+  background-color: transparent;
+  height: 100px;
+  left: 320px;
+  position: fixed;
+  top: 188px;
+  width: 1600px;
+}
+
+.servicepluginhometoucharea .brand-type {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 69px;
+}
+
+.servicepluginhometoucharea .app-link-copy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 54px;
+}
+
+.servicepluginhometoucharea .notifications-_-feat {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 144px;
+}
+
+.servicepluginhometoucharea .help-guide-_-expanda {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 179px;
+}

@@ -1,0 +1,97 @@
+/* screen - servicepluginmaintenancefeecase */
+
+.servicepluginmaintenancefeecase {
+  background-color: var(--white);
+  height: 3341px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.servicepluginmaintenancefeecase .group-24 {
+  background-color: transparent;
+  height: 877px;
+  left: 420px;
+  position: absolute;
+  top: 2264px;
+  width: 932px;
+}
+
+.servicepluginmaintenancefeecase .group-22 {
+  background-color: transparent;
+  height: 722px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.servicepluginmaintenancefeecase .group-23 {
+  background-color: transparent;
+  height: 958px;
+  left: 420px;
+  position: absolute;
+  top: 1156px;
+  width: 1400px;
+}
+
+.servicepluginmaintenancefeecase .web-title-area {
+  background-color: transparent;
+  height: 170px;
+  left: 320px;
+  position: fixed;
+  top: 64px;
+  width: 1600px;
+}
+
+.servicepluginmaintenancefeecase .x3rd-depth {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1600px;
+}
+
+.servicepluginmaintenancefeecase .feature {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 48px;
+}
+
+.servicepluginmaintenancefeecase .interaction-flow-copy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 98px;
+}
+
+.servicepluginmaintenancefeecase .group-1 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginmaintenancefeecase .group-2 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginmaintenancefeecase .webgnb {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}

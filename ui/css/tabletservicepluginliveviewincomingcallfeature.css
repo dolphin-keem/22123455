@@ -1,0 +1,88 @@
+/* screen - tabletservicepluginliveviewincomingcallfeature */
+
+.tabletservicepluginliveviewincomingcallfeature {
+  background-color: var(--white);
+  height: 1815px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.tabletservicepluginliveviewincomingcallfeature .group-5 {
+  background-color: transparent;
+  height: 305px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.tabletservicepluginliveviewincomingcallfeature .group-3 {
+  background-color: transparent;
+  height: 876px;
+  left: 420px;
+  position: absolute;
+  top: 739px;
+  width: 1400px;
+}
+
+.tabletservicepluginliveviewincomingcallfeature .feature {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 45px;
+}
+
+.tabletservicepluginliveviewincomingcallfeature .incoming-call-_-feat {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 147px;
+}
+
+.tabletservicepluginliveviewincomingcallfeature .incoming-call-_-1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 127px;
+}
+
+.tabletservicepluginliveviewincomingcallfeature .incoming-call-_-2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 127px;
+}
+
+.tabletservicepluginliveviewincomingcallfeature .incoming-call-_-3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 115px;
+}
+
+.tabletservicepluginliveviewincomingcallfeature .group-1 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletservicepluginliveviewincomingcallfeature .group-2 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}

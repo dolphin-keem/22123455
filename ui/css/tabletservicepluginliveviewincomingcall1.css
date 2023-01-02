@@ -1,0 +1,106 @@
+/* screen - tabletservicepluginliveviewincomingcall1 */
+
+.tabletservicepluginliveviewincomingcall1 {
+  background-color: var(--white);
+  height: 4334px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.tabletservicepluginliveviewincomingcall1 .group-1 {
+  background-color: transparent;
+  height: 1053px;
+  left: 320px;
+  position: absolute;
+  top: 284px;
+  width: 1600px;
+}
+
+.tabletservicepluginliveviewincomingcall1 .group-2 {
+  background-color: transparent;
+  height: 1015px;
+  left: 320px;
+  position: absolute;
+  top: 2328px;
+  width: 1600px;
+}
+
+.tabletservicepluginliveviewincomingcall1 .group-3 {
+  background-color: transparent;
+  height: 641px;
+  left: 420px;
+  position: absolute;
+  top: 1487px;
+  width: 1400px;
+}
+
+.tabletservicepluginliveviewincomingcall1 .group-3-copy {
+  background-color: transparent;
+  height: 641px;
+  left: 420px;
+  position: absolute;
+  top: 3493px;
+  width: 1400px;
+}
+
+.tabletservicepluginliveviewincomingcall1 .feature {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0;
+  position: relative;
+  width: 45px;
+}
+
+.tabletservicepluginliveviewincomingcall1 .incoming-call-_-feat {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 136px;
+}
+
+.tabletservicepluginliveviewincomingcall1 .incoming-call-_-1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 136px;
+}
+
+.tabletservicepluginliveviewincomingcall1 .incoming-call-_-2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 127px;
+}
+
+.tabletservicepluginliveviewincomingcall1 .incoming-call-_-3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  margin: 0 0 0 50px;
+  position: relative;
+  width: 115px;
+}
+
+.tabletservicepluginliveviewincomingcall1 .group-4 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.tabletservicepluginliveviewincomingcall1 .group-5 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}

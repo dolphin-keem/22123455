@@ -1,0 +1,43 @@
+/* screen - servicepluginmain */
+
+.servicepluginmain {
+  background-color: var(--white);
+  height: 1260px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.servicepluginmain .group-1 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginmain .group-2 {
+  background-color: transparent;
+  height: 41px;
+  margin: 0px 0 0 0;
+  position: relative;
+  width: 320px;
+}
+
+.servicepluginmain .webgnb {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: fixed;
+  top: 1px;
+  width: 1920px;
+}
+
+.servicepluginmain .group-3 {
+  background-color: transparent;
+  height: 770px;
+  left: 409px;
+  position: absolute;
+  top: 290px;
+  width: 521px;
+}
